@@ -79,6 +79,7 @@
 104.239.163.30
 104.239.163.31
 104.239.163.43
+104.239.163.45
 104.239.168.211
 104.239.168.233
 104.239.174.162
@@ -2283,6 +2284,7 @@ www.marusin.com.ua
 www.mathspeople.com
 www.maximka.info
 www.mbnjoelk.com
+www.med-certification.ru
 www.medicalstart.org
 www.medspravkivsem.ru
 www.metanrus.net
