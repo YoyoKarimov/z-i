@@ -521,6 +521,7 @@
 47.254.131.236
 47.254.131.31
 47.254.131.79
+47.254.132.110
 47.254.132.156
 47.254.132.171
 47.254.132.206
@@ -698,6 +699,7 @@
 47.254.151.66
 47.254.151.69
 47.254.151.75
+47.254.151.91
 47.254.151.96
 47.254.152.103
 47.254.152.114
@@ -2011,6 +2013,7 @@ www.xn--c1acj.xn--80aswg
 www.xn--d1ahfbogbaasi6c.xn--p1ai
 www.yabeda.org
 www.zaycev-tut.ru
+www.zenitbet.by
 www.zerkalo-fonbet.ru
 www.zerx.su
 www.zvukovorot.com
@@ -2082,6 +2085,7 @@ xxxdosugufa.com
 yabeda.org
 young.nnlopics.com
 zaycev-tut.ru
+zenitbet.by
 zerkalo-fonbet.ru
 zerkalo-rutor.su
 zerkalo888.ru
