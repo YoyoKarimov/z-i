@@ -372,6 +372,7 @@
 23.253.173.197
 23.253.174.125
 23.253.174.176
+23.253.20.243
 23.253.205.138
 23.253.205.232
 23.253.205.234
@@ -1377,6 +1378,7 @@ bkfonbet-17.su
 bkfonbet-18.su
 bkfonbet-19.su
 bkfonbet-2.su
+bkfonbet-20.su
 bkfonbet-5.su
 bkfonbet-6.su
 bkinfo17.online
@@ -1456,11 +1458,13 @@ devonkigud.ru
 dial-78-141-104-67.orange.sk
 diaspbclj4sgc2fy.onion.nu
 dip-attestat.com
+diplom-barnaul22.ru
 diplom-belgorod.com
 diplom-guru.ru
 diplom-kursk.com
 diplom-magazine.ru
 diplom-omsk-tut.com
+diplom-saratov64.ru
 diplom-voronezh.com
 diplom3you.com
 diploma-krsk.ru
