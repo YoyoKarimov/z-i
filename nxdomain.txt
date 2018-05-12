@@ -101,6 +101,7 @@
 104.239.192.113
 104.239.192.128
 104.239.192.62
+104.239.192.66
 104.239.194.139
 104.239.72.107
 104.239.72.129
@@ -1687,6 +1688,7 @@ my-hit.com
 myjack-site.com
 mykrosovki.ru
 myzenit.win
+nb-samara.com
 netsekretov.info
 new-rutor.ru
 new.hizb.org.ua
