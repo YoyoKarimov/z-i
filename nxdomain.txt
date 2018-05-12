@@ -24,6 +24,7 @@
 104.130.204.94
 104.130.207.132
 104.130.209.48
+104.130.209.69
 104.130.222.156
 104.130.222.240
 104.130.222.245
@@ -882,6 +883,7 @@
 47.91.109.66
 47.91.16.110
 47.91.16.133
+47.91.16.63
 47.91.17.119
 47.91.17.24
 47.91.19.125
@@ -1564,6 +1566,7 @@ index.vybor-magnita.ru
 innocent.nonude-place.com
 instatopcasino.com
 islamic-world.ru
+j-styleshine.ru
 jackpot-azart.com
 justtrenager.ru
 kak-zayti-na-marafon.men
@@ -1989,6 +1992,7 @@ vklade.org
 vlcrime.net
 voffline.net
 volcano-ag.com
+vps01008.vpsville.ru
 vsecasino.me
 vseriale.club
 vsfilm.ru
