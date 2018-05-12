@@ -400,6 +400,7 @@
 23.253.85.110
 23.253.85.112
 23.253.85.18
+23.253.85.25
 23.253.85.50
 23.253.85.56
 23.253.85.57
@@ -1517,6 +1518,7 @@ kinoprofi2.net
 kittens.nonude-place.com
 klad-24.net
 kladonline.me
+kupi-diplom-v-irkutske.ru
 kupit-1-diplom.com
 kupit-prodiplom.com
 kupit-spaysperm.gaba.biz
@@ -1772,6 +1774,7 @@ superbotanik.ru
 tara4musor.ru
 telego.club
 test1.plusminus1.com
+test2.plusminus1.com
 tg.maclikbez.ru
 tj-maxx.ru
 tls.zello.com
