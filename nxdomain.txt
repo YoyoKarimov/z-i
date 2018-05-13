@@ -3,6 +3,7 @@
 10.300kbit.pw
 100medspravok.org
 104.130.117.11
+104.130.117.12
 104.130.117.29
 104.130.117.4
 104.130.117.6
@@ -750,6 +751,7 @@
 47.254.153.138
 47.254.153.145
 47.254.153.226
+47.254.153.254
 47.254.153.30
 47.254.153.44
 47.254.153.45
@@ -1713,6 +1715,7 @@ prava-service.com
 prava-servis.ru
 prava177.com
 pravyysektor.od.ua
+prawaspec.com
 privatalco.lol
 pro.intim38.ru
 pro100diplom.com
@@ -1934,6 +1937,7 @@ www.8torrent.net
 www.agentdosug.ru
 www.babkino.com
 www.baltplay4.com
+www.bestbettoday.com
 www.bestcasinopromo.net
 www.betin76.com
 www.betkurus365.com
