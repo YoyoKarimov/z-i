@@ -100,6 +100,7 @@
 104.215.22.182
 104.215.42.25
 104.239.141.138
+104.239.141.69
 104.239.163.30
 104.239.163.31
 104.239.163.43
@@ -551,6 +552,7 @@
 47.254.131.179
 47.254.131.192
 47.254.131.236
+47.254.131.238
 47.254.131.31
 47.254.131.79
 47.254.132.110
@@ -616,6 +618,7 @@
 47.254.147.252
 47.254.147.62
 47.254.147.64
+47.254.147.72
 47.254.147.79
 47.254.147.87
 47.254.147.91
@@ -1560,6 +1563,7 @@ fonsport-bet.xyz
 fonsportbet.biz
 fonsportbet.info
 fonsportbet.org
+forum.encyclopediadramatica.se
 freebet.ccov.ru
 freebook.net.ua
 freekaraoke.ru
@@ -1798,7 +1802,13 @@ realformula55.tj
 realklad.ru
 redircvs.xyz
 redirkjx.xyz
+refpacoj.xyz
+refpagov.xyz
+refpahek.xyz
 refpamew.xyz
+refpamyd.xyz
+refparer.xyz
+refpaviv.xyz
 refpawer.xyz
 refpawho.xyz
 regblackred.xcasin0.net
@@ -2068,7 +2078,6 @@ www.kinokong.net
 www.kinokrad.ru
 www.kkray.org.ua
 www.leonbet.net.ru
-www.letsspin.com
 www.lifefilm.info
 www.lithub.ru
 www.magnetfox.com
