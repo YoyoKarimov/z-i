@@ -47,6 +47,7 @@
 104.130.226.225
 104.130.239.106
 104.130.239.119
+104.130.239.127
 104.130.239.138
 104.130.239.149
 104.130.239.169
@@ -1339,6 +1340,7 @@ aiozay.cyamyanmar.com
 al.grand-casino4.com
 alco-night.info
 alcoclub24.com
+alcogolspb.ru
 alcolighter27.su
 alko812.ru
 alkodostavka61.ru
@@ -1520,6 +1522,7 @@ goodkladsk.ru
 goodlegal.ru
 gos-diplom.com
 grandcrystal2.com
+grandcrystal5.com
 grandcrystal6.com
 grandcrystal7.com
 grandcrystal8.com
