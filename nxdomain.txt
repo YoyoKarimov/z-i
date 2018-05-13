@@ -57,6 +57,7 @@
 104.130.239.35
 104.130.239.82
 104.130.239.87
+104.130.239.94
 104.130.253.117
 104.210.1.42
 104.211.176.188
@@ -393,6 +394,7 @@
 23.253.173.197
 23.253.174.125
 23.253.174.176
+23.253.174.234
 23.253.174.80
 23.253.20.243
 23.253.205.138
@@ -1338,6 +1340,7 @@ access-playbalt.xyz
 admiralkazinos.com
 aiozay.cyamyanmar.com
 al.grand-casino4.com
+alco-812.ru
 alco-night.info
 alcoclub24.com
 alcogolspb.ru
@@ -1355,6 +1358,7 @@ amfstor.ru
 anonimrc.ru
 any-diploms.com
 app.txk3qa8xcrxgh2fb.xyz
+autozap-st.ru
 avinfo.me
 b7bb3e.olimp656f.top
 balt-bet1.com
@@ -1557,6 +1561,7 @@ kinogo-film.ru
 kinogo-hd.mobi
 kinogo-net-co.ru
 kinogo-net.net
+kinogo-online.cc
 kinogo-online.tv
 kinogo-ru.com
 kinogo.mobi
@@ -1663,6 +1668,7 @@ nexbet.ru
 nice.nonude-place.com
 nichesi.ru
 night.alkodostavka61.ru
+nn-bolnichnyi-list.ru
 nn-diplom.com
 nnikolaevsk.ru
 nnm-club.name
@@ -1695,6 +1701,7 @@ pleer.net
 pokerdom6.co
 poluspharm.ru
 pontus.bouwsoft.be
+porno-kopilka.net
 pornoteca.net
 portal.nonude-place.com
 prava-service.com
@@ -1847,6 +1854,7 @@ st.officeverse.com
 start.parimatch3.com
 start.parimatchpm2.com
 start.parimatchpm4.com
+start.zeoncasino8.com
 stavki-zerkalo3.ru
 strojca.top
 stroyka-udostovereniya-kupit.com
@@ -1854,6 +1862,7 @@ superbotanik.ru
 tara4musor.ru
 telego.club
 test2.plusminus1.com
+test3.plusminus1.com
 tg.maclikbez.ru
 tj-maxx.ru
 tls.zello.com
@@ -2043,6 +2052,7 @@ www.pipec-gdzec.com
 www.playeuro.com.ua
 www.pleer.com
 www.pleer.net
+www.porno-kopilka.net
 www.prostitutkibryanska32.com
 www.prostitutkibryanska32.top
 www.ps-obl.kiev.ua
