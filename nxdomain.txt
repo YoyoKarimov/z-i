@@ -23,6 +23,7 @@
 104.130.138.99
 104.130.141.144
 104.130.141.146
+104.130.141.198
 104.130.141.211
 104.130.141.63
 104.130.163.9
@@ -58,6 +59,7 @@
 104.130.239.169
 104.130.239.174
 104.130.239.183
+104.130.239.187
 104.130.239.24
 104.130.239.35
 104.130.239.6
@@ -436,6 +438,7 @@
 23.253.85.57
 23.253.85.59
 23.253.85.72
+23.253.85.77
 23.253.85.82
 23.253.85.83
 23.253.85.88
@@ -680,6 +683,7 @@
 47.254.149.51
 47.254.149.66
 47.254.149.70
+47.254.149.75
 47.254.149.81
 47.254.149.82
 47.254.149.84
@@ -1540,6 +1544,7 @@ films-online.tv
 films.kinopoiskhd.ru
 fine.adv.bkfind.space
 firebit.us
+flyfilmy.com
 fon-bet-z.ru
 fon-betsport.com
 fon-betting.ru
@@ -1807,7 +1812,10 @@ refpagov.xyz
 refpahek.xyz
 refpamew.xyz
 refpamyd.xyz
+refpanul.xyz
 refparer.xyz
+refpatig.xyz
+refpatyg.xyz
 refpaviv.xyz
 refpawer.xyz
 refpawho.xyz
