@@ -113,6 +113,7 @@
 104.239.163.37
 104.239.163.43
 104.239.163.45
+104.239.168.179
 104.239.168.211
 104.239.168.233
 104.239.168.49
@@ -429,6 +430,7 @@
 23.253.205.232
 23.253.205.234
 23.253.218.139
+23.253.218.65
 23.253.226.7
 23.253.236.74
 23.253.73.218
@@ -562,6 +564,7 @@
 47.254.129.13
 47.254.129.254
 47.254.129.35
+47.254.129.43
 47.254.129.62
 47.254.130.140
 47.254.130.58
@@ -1470,6 +1473,7 @@ bez-ekzamena.in
 bigcinema-online.net
 bigcinema.site
 bigklad.ru
+billp-farma.biz
 bioticrc-24.biz
 bizness.info
 bk-fon-in-sport.ru
@@ -1570,6 +1574,7 @@ eifostim.ru
 ekaterinburg.prostitutki.rest
 ekibastos.ru
 f97837.olimpe24a.top
+farma-24.biz
 fast.grandcsn.com
 fastbets.io
 fbc4450c7966fc6d37db.xyz
@@ -2018,6 +2023,7 @@ uris.lol
 urislog.link
 vibratorspb.org
 videokub.me
+vipnetgame.org
 vipslotgame.com
 vizovsantehnika.ru
 vk-sound.ru
@@ -2116,7 +2122,6 @@ www.gameinfon.online
 www.gameinfon.xyz
 www.gdzpop.com
 www.gdzv.ru
-www.goldenshara.org
 www.goldvoyagerslot.com
 www.gos-diplom.com
 www.greenhornetpoker.com
