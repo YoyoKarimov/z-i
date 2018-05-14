@@ -26,6 +26,7 @@
 104.130.141.198
 104.130.141.211
 104.130.141.63
+104.130.163.79
 104.130.163.9
 104.130.172.247
 104.130.195.62
@@ -811,6 +812,7 @@
 47.254.153.46
 47.254.153.57
 47.254.153.6
+47.254.153.69
 47.254.153.70
 47.254.153.95
 47.254.154.108
@@ -936,6 +938,7 @@
 47.74.5.249
 47.74.5.67
 47.74.6.143
+47.74.6.197
 47.74.6.215
 47.74.6.88
 47.74.66.8
@@ -1358,6 +1361,7 @@
 77.220.215.139
 77.87.180.178
 777-10.xn--p1ai
+777.play-casino.top
 777igrovye.com
 777slotsvolcano.club
 78.108.184.35
@@ -2090,6 +2094,7 @@ www.fonsport-bet.xyz
 www.fonsportbet.biz
 www.fonsportbet.info
 www.fonsportbet.org
+www.free-casino.top
 www.freekaraoke.ru
 www.freetorrmd.ru
 www.gameinfon.online
@@ -2171,6 +2176,7 @@ www.parimatchstavka1.com
 www.parimatchstavka3.com
 www.parimatchwin7.com
 www.pipec-gdzec.com
+www.play-casino.top
 www.playeuro.com.ua
 www.pleer.com
 www.pleer.net
