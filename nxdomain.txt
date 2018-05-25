@@ -41,6 +41,7 @@
 1804.leon.bkr02b.top
 1810.leon.bkr05l.club
 185-20-138-223.fi-hel1.host.upcloud.com
+185-225-17-82.mivocloud.com
 189-172-172-163.rev.cloud.scaleway.com
 195-154-31-196.rev.poneytelecom.eu
 19d100.olimp1a50.top
@@ -1707,7 +1708,6 @@ www.igdz.ru
 www.igraslv.com
 www.igrovie-avtomati-online.org
 www.igrovye-avtomaty-online.org
-www.ihentai69.com
 www.ikino.su
 www.incoforex.ru
 www.industrychina.net
