@@ -598,6 +598,7 @@ easyosago.com
 ec2-34-203-212-15.eu-central-1.compute.amazonaws.com
 ec2-54-165-90-185.eu-central-1.compute.amazonaws.com
 ec2-54-95-131-35.eu-west-1.compute.amazonaws.com
+ecolugansk.in.ua
 economikalesa.ru
 ed38fc.olimp1958.top
 egger-cash.ru
@@ -1432,7 +1433,6 @@ top-rutor.pl
 topasnew.ru
 topbet24.su
 topkvartiry.ru
-torrent-baza.net
 toto.fonbetsport.com
 toto.fonbetstavki.com
 toto.fonsportbets.com
@@ -1897,7 +1897,6 @@ www.tnruc.com
 www.tomsk-bolnichnyi-list.ru
 www.top-rutor.pl
 www.topasnew.ru
-www.torrent-baza.net
 www.traktoristy.com
 www.tropvt.com
 www.trudobook.info
