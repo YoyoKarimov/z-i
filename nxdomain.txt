@@ -1241,6 +1241,7 @@ ru.leoncontrol.com
 ru.leondelta.com
 ru.leondune.com
 ru.leonfaze.com
+ru.leongambit.xyz
 ru.leonglint.com
 ru.leongoo.com
 ru.leonkey.com
