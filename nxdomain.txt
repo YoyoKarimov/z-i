@@ -379,7 +379,6 @@ bkfonbet-18.su
 bkfonbet-20.su
 bkfonbet-21.su
 bkfonbet-22.su
-bkfonbet-23.su
 bkfonbet1.online
 bkfonbet2.online
 bkfonbet3.online
@@ -1588,6 +1587,8 @@ teens-pic.ru
 telchemshop.com
 telego.club
 ten.you-are-winner.com
+test1.plusminus1.com
+test3.plusminus1.com
 the.you-are-winner.com
 thebookmaker.ru
 tide-klad.biz
@@ -2077,6 +2078,7 @@ www.secondcoincasino.com
 www.serialhit.tv
 www.sexinformer.biz
 www.sexzerkalo.net
+www.shareclip.net
 www.shokozayac.ru
 www.shqiptari.info
 www.silverslv.com
