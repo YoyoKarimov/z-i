@@ -47,6 +47,7 @@
 185-163-45-115.mivocloud.com
 185-163-45-98.mivocloud.com
 185-20-138-223.fi-hel1.host.upcloud.com
+185-20-138-54.fi-hel1.host.upcloud.com
 185-225-17-82.mivocloud.com
 188877.info
 189-172-172-163.rev.cloud.scaleway.com
@@ -658,6 +659,7 @@ egossip.info
 eifostim.ru
 ekibastos.ru
 elektroudochka.net
+elite-bet111.ru
 elite-bet7.ru
 elite-bet888.ru
 embaweb.info
@@ -2182,6 +2184,7 @@ xdosug.info
 xn-----6kcagdcrjaiqkctmr3anbbmxvbi6b0acx9t2a.xn--p1ai
 xn-----6kcbnpreslnc8cjg2fc.xn--p1ai
 xn-----6kccajf8bmefc5agb4bqs3dxh.xn--p1ai
+xn----43-43dabneif9cudcmc8bibe7bhy15a.xn--p1ai
 xn----7sbabjkslpccgs2a9b.xn--p1ai
 xn----7sbafnpknch3cxa.xn--p1ai
 xn----7sbb4aacaleh7ash6hi.xn--p1ai
