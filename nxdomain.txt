@@ -34,6 +34,7 @@
 13-250-40-134.ap-southeast-1.compute.amazonaws.com
 1303.vin.bkr10l.club
 1310.leon.bkr04l.club
+13cbbf.olimp9b55.gdn
 1404.day.win.bkr10.club
 1504.day.win.bkr10.club
 1505.win.bkr12.club
@@ -1832,9 +1833,6 @@ teens-pic.ru
 telchemshop.com
 telego.club
 ten.you-are-winner.com
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 the.you-are-winner.com
 thebookmaker.ru
 tide-klad.biz
@@ -1987,7 +1985,6 @@ webnuv.ru
 webroses.ru
 webserver.quickmkts.com
 wgpoker.com
-whatthefund.ru
 wildboyz.info
 win.bkr12.club
 win88.info
@@ -2434,6 +2431,7 @@ www.svigra.com
 www.tabakpro.ru
 www.tara4musor.ru
 www.tb-rux.com
+www.teenstube.cc
 www.tnruc.com
 www.to-krd.ru
 www.tomsk-bolnichnyi-list.ru
