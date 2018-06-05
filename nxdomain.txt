@@ -52,7 +52,6 @@
 185-163-45-87.mivocloud.com
 185-163-45-98.mivocloud.com
 185-20-138-223.fi-hel1.host.upcloud.com
-185-20-138-54.fi-hel1.host.upcloud.com
 185-225-17-82.mivocloud.com
 188877.info
 189-172-172-163.rev.cloud.scaleway.com
@@ -2487,6 +2486,7 @@ www.sportingbullru669.com
 www.sportingbullru744.com
 www.sportingbullru994.com
 www.spravki177.ru
+www.stil-samki.ru
 www.superbetin77.com
 www.superbotanik.ru
 www.superice.bz
