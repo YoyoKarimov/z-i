@@ -47,6 +47,7 @@
 1810.leon.bkr05l.club
 185-163-45-110.mivocloud.com
 185-163-45-115.mivocloud.com
+185-163-45-87.mivocloud.com
 185-163-45-98.mivocloud.com
 185-20-138-223.fi-hel1.host.upcloud.com
 185-225-17-82.mivocloud.com
@@ -354,6 +355,7 @@ avinfo.me
 avto-ekat.ru
 azartmania-casino.info
 azartplay.kim
+azartplay.top
 azartplay.vip
 azartsmania.ru
 azgamecasino.com
@@ -1396,6 +1398,7 @@ netgame11.com
 netgame12.com
 netgame7.com
 netgame8.com
+netgame9.com
 netgameclub10.com
 netgameclub11.com
 netgameclub7.com
@@ -1943,6 +1946,7 @@ teens-pic.ru
 telchemshop.com
 telego.club
 ten.you-are-winner.com
+test1.plusminus1.com
 the.you-are-winner.com
 thebookmaker.ru
 tide-klad.biz
