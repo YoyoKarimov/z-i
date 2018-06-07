@@ -415,6 +415,7 @@ bet1-31.win
 bet1-7.win
 bet1-8.win
 bet1-9.win
+bet12-17.win
 bet2-1.win
 bet2-10.win
 bet2-11.win
