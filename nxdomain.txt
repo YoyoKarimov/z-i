@@ -47,7 +47,6 @@
 1810.leon.bkr05l.club
 185-163-45-110.mivocloud.com
 185-163-45-115.mivocloud.com
-185-163-45-87.mivocloud.com
 185-163-45-98.mivocloud.com
 185-20-138-223.fi-hel1.host.upcloud.com
 185-225-17-82.mivocloud.com
@@ -291,10 +290,13 @@ access-playbalt.online
 access-playbalt.today
 access-playbalt.xyz
 account.fonbet61.vip
+account.fonbet62.vip
 account.fonbet64.vip
 account.fonbet65.vip
 account.fonbet67.vip
 account.fonbet69.vip
+account.fonbet73.vip
+account.fonbet74.vip
 account.fonbet75.vip
 account.fonbet78.vip
 account.fonbet79.vip
@@ -1018,10 +1020,13 @@ games.fonbet102.vip
 games.fonbet111.vip
 games.fonbet43.com
 games.fonbet61.vip
+games.fonbet62.vip
 games.fonbet64.vip
 games.fonbet65.vip
 games.fonbet67.vip
 games.fonbet69.vip
+games.fonbet73.vip
+games.fonbet74.vip
 games.fonbet75.vip
 games.fonbet78.vip
 games.fonbet79.vip
@@ -1377,10 +1382,13 @@ m.fonbet114.vip
 m.fonbet23.vip
 m.fonbet56.vip
 m.fonbet61.vip
+m.fonbet62.vip
 m.fonbet64.vip
 m.fonbet65.vip
 m.fonbet67.vip
 m.fonbet69.vip
+m.fonbet73.vip
+m.fonbet74.vip
 m.fonbet75.vip
 m.fonbet78.vip
 m.fonbet79.vip
@@ -1770,6 +1778,8 @@ racing.fonbet61.vip
 racing.fonbet64.vip
 racing.fonbet65.vip
 racing.fonbet67.vip
+racing.fonbet73.vip
+racing.fonbet74.vip
 racing.fonbet75.vip
 racing.fonbet78.vip
 racing.fonbet79.vip
@@ -2408,6 +2418,7 @@ www.dom-sblta.com
 www.dosug-66.com
 www.dosug-orenburg.ru
 www.dosug-xx.ru
+www.dosug59.club
 www.ebubk4.com
 www.ebubk5.com
 www.ekibastos.ru
@@ -2776,6 +2787,7 @@ www.ultraprava.ru
 www.velcare.info
 www.villabet.co
 www.vipdosug72.com
+www.vipdosugperm.club
 www.vipfonbet2.ru
 www.vipfonbet3.ru
 www.vipfonbet4.ru
