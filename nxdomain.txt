@@ -269,7 +269,6 @@
 911-131.com
 920ef7.olimp12da.top
 921333.ru
-94-237-31-84.de-fra1.host.upcloud.com
 958e28.olimp876c.site
 98f39c.olimp16e5.top
 997530.olimp58e7.top
@@ -306,6 +305,7 @@ account.fonbet85.vip
 account.fonbet86.vip
 account.fonbet95.vip
 account.fonbet96.vip
+account.fonbet98.vip
 account.fonbetstavki.com
 ad6e43.olimp58e8.top
 adakkurban.info
@@ -1036,6 +1036,7 @@ games.fonbet85.vip
 games.fonbet86.vip
 games.fonbet95.vip
 games.fonbet96.vip
+games.fonbet98.vip
 gaminatorslots.casino
 garant-31.ru
 gdzb.ru
@@ -1399,6 +1400,7 @@ m.fonbet86.vip
 m.fonbet94.vip
 m.fonbet95.vip
 m.fonbet96.vip
+m.fonbet98.vip
 m.fonbetstavki.com
 m.fonsport-bet.cf
 m.mp3-tut.biz
@@ -1789,11 +1791,13 @@ racing.fonbet85.vip
 racing.fonbet86.vip
 racing.fonbet95.vip
 racing.fonbet96.vip
+racing.fonbet98.vip
 racing.fonbetsport.com
 racing.fonbetstavki.com
 racing.sportbetsfon.com
 rafsong74.ru
 rake-poker.ru
+rarip.info
 ravecomm.info
 razblock.ru
 rcdostup.ru
