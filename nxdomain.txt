@@ -472,6 +472,7 @@ bets.bkfonbetsports.com
 bets.faidecor.ru
 bets.fonbetsport.com
 bets.fonbetstavki.com
+bets.fonsport.bet
 bets.fonsportbets.com
 bets.sportbetsfon.com
 betsiti-bukmekerskaya.ru
@@ -1349,6 +1350,7 @@ live.fonbet8.com
 live.fonbet9.com
 live.fonbetsport.com
 live.fonbetstavki.com
+live.fonsport.bet
 live.fonsportbets.com
 live.sportbetsfon.com
 liveclips.org.ua
