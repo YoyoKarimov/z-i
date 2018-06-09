@@ -48,7 +48,6 @@
 185-163-45-110.mivocloud.com
 185-163-45-115.mivocloud.com
 185-163-45-98.mivocloud.com
-185-20-138-223.fi-hel1.host.upcloud.com
 185-225-17-82.mivocloud.com
 188877.info
 189-172-172-163.rev.cloud.scaleway.com
@@ -651,6 +650,7 @@ ca46f7.olimpef97.site
 callofjuarez.ru
 cannado.cc
 casino-imperator.es
+casino-player.ru
 casino-velkam10.co
 casino-velkam11.co
 casino-x-play.com
@@ -2400,6 +2400,7 @@ www.bukvaved.net
 www.buyketaminehydrochloride.com
 www.by.legalizer.info
 www.casholotcasino.net
+www.casino-player.ru
 www.casino-sv.com
 www.casino-velkam10.co
 www.casino-vulcan.co
