@@ -996,6 +996,7 @@ fonbets-23.su
 fonbets-24.su
 fonbets-25.su
 fonbets-27.su
+fonbets-28.su
 fonbets-info5.su
 fonbets-info6.su
 fonbets-info9.su
