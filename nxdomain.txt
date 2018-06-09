@@ -47,6 +47,7 @@
 1810.leon.bkr05l.club
 185-163-45-110.mivocloud.com
 185-163-45-115.mivocloud.com
+185-163-45-87.mivocloud.com
 185-163-45-98.mivocloud.com
 185-225-17-82.mivocloud.com
 188877.info
@@ -302,6 +303,7 @@ account.fonbet75.vip
 account.fonbet76.vip
 account.fonbet78.vip
 account.fonbet79.vip
+account.fonbet80.vip
 account.fonbet81.vip
 account.fonbet82.vip
 account.fonbet83.vip
@@ -1044,6 +1046,7 @@ games.fonbet75.vip
 games.fonbet76.vip
 games.fonbet78.vip
 games.fonbet79.vip
+games.fonbet80.vip
 games.fonbet81.vip
 games.fonbet82.vip
 games.fonbet83.vip
@@ -1417,6 +1420,7 @@ m.fonbet75.vip
 m.fonbet76.vip
 m.fonbet78.vip
 m.fonbet79.vip
+m.fonbet80.vip
 m.fonbet81.vip
 m.fonbet82.vip
 m.fonbet83.vip
@@ -1815,6 +1819,7 @@ racing.fonbet75.vip
 racing.fonbet76.vip
 racing.fonbet78.vip
 racing.fonbet79.vip
+racing.fonbet80.vip
 racing.fonbet81.vip
 racing.fonbet82.vip
 racing.fonbet83.vip
@@ -1952,6 +1957,7 @@ ru.leongoo.com
 ru.leonkey.com
 ru.leonlenta.com
 ru.leonmegafon.com
+ru.leonmir.com
 ru.leonmm.com
 ru.leonmts.com
 ru.leonnavi.com
