@@ -981,6 +981,7 @@ fonbets-22.su
 fonbets-23.su
 fonbets-24.su
 fonbets-25.su
+fonbets-27.su
 fonbets-info5.su
 fonbets-info6.su
 fonbets-info9.su
@@ -1378,6 +1379,7 @@ m.fonbet108.vip
 m.fonbet109.vip
 m.fonbet110.vip
 m.fonbet111.vip
+m.fonbet112.vip
 m.fonbet113.vip
 m.fonbet114.vip
 m.fonbet23.vip
