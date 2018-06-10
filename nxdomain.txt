@@ -588,6 +588,7 @@ bkinfo77.online
 bkinfo80.online
 bkinfo85.online
 bkinfo87.online
+bkinfo88.online
 bkinfo92.online
 bkleader.com
 bkleon2.ru
@@ -1799,6 +1800,7 @@ pokerdom.su
 pokerdom6.co
 pokerdomonline.ru
 pokrasmetalla.ru
+polittech.org
 poluspharm.ru
 pomozhemsdiplomom.ru
 popugayseeds.com
@@ -2304,6 +2306,9 @@ teens-pic.ru
 telchemshop.com
 telego.club
 ten.you-are-winner.com
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 the.you-are-winner.com
 thebookmaker.ru
 tide-klad.biz
