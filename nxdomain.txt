@@ -542,6 +542,7 @@ bkfonbet-24.su
 bkfonbet-25.su
 bkfonbet-26.su
 bkfonbet-27.su
+bkfonbet-28.su
 bkfonbet1.online
 bkfonbet2.online
 bkfonbet3.online
@@ -944,6 +945,8 @@ fonbet-reg.ru
 fonbet-reg1.ru
 fonbet-ru5.su
 fonbet.su
+fonbet1.su
+fonbet2.su
 fonbet23.vip
 fonbet24.vip
 fonbet25.vip
@@ -1222,6 +1225,7 @@ kaluga.docvuz.org
 kanistroff.ru
 karaokevideo.ru
 karaopa.ru
+kasplus.ru
 kavkazcenter.info
 kazan-bolnichnyi-list.ru
 kazanhalal.ru
@@ -1892,6 +1896,7 @@ racing.sportbetsfon.com
 rafsong74.ru
 rake-poker.ru
 rarip.info
+rashod-topliva.ru
 rating-casino-online.ru
 ravecomm.info
 razblock.ru
