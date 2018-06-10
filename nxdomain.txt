@@ -49,7 +49,6 @@
 1810.leon.bkr05l.club
 185-163-45-110.mivocloud.com
 185-163-45-115.mivocloud.com
-185-163-45-87.mivocloud.com
 185-163-45-98.mivocloud.com
 185-20-138-223.fi-hel1.host.upcloud.com
 185-225-17-82.mivocloud.com
@@ -375,6 +374,7 @@ all.showbody.org
 allhit.tv
 allklad.ru
 allweedsonline.com
+alt-history.ru
 amazonki54.ru
 amfetamin-spb.cf
 amfetamin-spb.ga
@@ -1116,6 +1116,7 @@ getsmoney.info
 ggbk.ru
 ggzv.ru
 gibdd-spravki.com
+gidonline-film.ru
 gidonlines.ru
 gimsprava.ru
 gnomsk24.biz
@@ -2906,6 +2907,7 @@ www.sexpermi.com
 www.sexzerkalo.net
 www.shamarc.ms
 www.shamarc.org
+www.shareclip.net
 www.shokozayac.ru
 www.shqiptari.info
 www.silverslv.com
