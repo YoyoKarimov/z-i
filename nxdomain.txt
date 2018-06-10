@@ -583,6 +583,7 @@ bkinfo49.online
 bkinfo51.online
 bkinfo62.online
 bkinfo69.online
+bkinfo70.online
 bkinfo77.online
 bkinfo80.online
 bkinfo85.online
