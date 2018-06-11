@@ -49,6 +49,7 @@
 1810.leon.bkr05l.club
 185-163-45-110.mivocloud.com
 185-163-45-115.mivocloud.com
+185-163-45-87.mivocloud.com
 185-163-45-98.mivocloud.com
 185-20-138-223.fi-hel1.host.upcloud.com
 185-225-17-82.mivocloud.com
@@ -1162,7 +1163,6 @@ growseeds.net
 guildpoker.com
 gunsprice.ru
 habarovsk.docvuz.org
-hamon-i-vino.ru
 hanbok.info
 hellporno.ru
 hemp-smoke.com
@@ -3151,6 +3151,7 @@ zakladlegal.ru
 zaycev-tut.ru
 zedeklopa.ru
 zenitbet.by
+zeon-casinos.ru
 zerk-bk24.online
 zerkala10bk.ru
 zerkalo-1xbet.net
