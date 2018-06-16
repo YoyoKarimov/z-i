@@ -1443,6 +1443,7 @@ leon102.info
 leon103.info
 leon104.info
 leon105.info
+leon106.info
 leonaaccess02.xyz
 leonacce2s.xyz
 leonaccess38.xyz
@@ -2093,6 +2094,7 @@ ru.leon101.info
 ru.leon102.info
 ru.leon104.info
 ru.leon105.info
+ru.leon106.info
 ru.leon250.com
 ru.leon251.com
 ru.leon252.com
