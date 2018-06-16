@@ -1348,7 +1348,6 @@ kinogo-net.ru
 kinogo-online.cc
 kinogo-online.tv
 kinogo-online720.net
-kinogo-ru.com
 kinogo.mobi
 kinogo.movie
 kinogo.realty
@@ -1397,7 +1396,6 @@ kupi-diplomvastrahani.ru
 kupi-diplomvsamare.ru
 kupit-1-diplom.com
 kupit-diploma.info
-kupit-diplomy.ru
 kupit-prodiplom.com
 kupit-spaysperm.gaba.biz
 kupit-spravku-ufa.com
@@ -2181,10 +2179,12 @@ ru.leongambitbet.xyz
 ru.leonglint.com
 ru.leongoo.com
 ru.leonhut.com
+ru.leonigra.com
 ru.leonkarta.com
 ru.leonkey.com
 ru.leonlenta.com
 ru.leonmegafon.com
+ru.leonmetel.com
 ru.leonmir.com
 ru.leonmm.com
 ru.leonmol.com
@@ -2203,6 +2203,7 @@ ru.leonrussia.com
 ru.leonshark.com
 ru.leonsota.com
 ru.leonspot.com
+ru.leonstavki.com
 ru.leontele.com
 ru.leontiger.com
 ru.leontwit.com
@@ -2436,6 +2437,9 @@ teehspec.com
 teens-pic.ru
 telchemshop.com
 ten.you-are-winner.com
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 the.you-are-winner.com
 thebookmaker.ru
 thediplom.com
