@@ -2054,7 +2054,6 @@ refpamyd.xyz
 refpanul.xyz
 refpapro.xyz
 refparer.xyz
-refpatig.xyz
 refpatyg.xyz
 refpaviv.xyz
 refpawer.xyz
