@@ -50,7 +50,6 @@
 1810.leon.bkr05l.club
 185-163-45-110.mivocloud.com
 185-163-45-115.mivocloud.com
-185-163-45-87.mivocloud.com
 185-163-45-98.mivocloud.com
 185-20-138-223.fi-hel1.host.upcloud.com
 185-225-17-82.mivocloud.com
@@ -3095,6 +3094,7 @@ www.shamarc.org
 www.shareclip.net
 www.shokozayac.ru
 www.shqiptari.info
+www.sigarkas.com
 www.silverslv.com
 www.simrit-nn.ru
 www.skorost.org
