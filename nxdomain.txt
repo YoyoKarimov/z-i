@@ -2096,6 +2096,7 @@ ru.leon102.info
 ru.leon104.info
 ru.leon105.info
 ru.leon106.info
+ru.leon107.info
 ru.leon250.com
 ru.leon251.com
 ru.leon252.com
@@ -2338,6 +2339,7 @@ shamarc.ms
 shamarc.ms.
 shamarc.org
 shokozayac.ru
+shop-tgk.ml
 shopdiplomas.com
 showbody.org
 shpatel.info
