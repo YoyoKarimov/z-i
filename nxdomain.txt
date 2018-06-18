@@ -55,6 +55,7 @@
 185-163-45-87.mivocloud.com
 185-163-45-98.mivocloud.com
 185-20-138-223.fi-hel1.host.upcloud.com
+185-20-138-37.fi-hel1.host.upcloud.com
 185-225-17-82.mivocloud.com
 188877.info
 188bet-bukmekerskaya.ru
@@ -387,7 +388,6 @@ agentestudio.ru
 aiozay.cyamyanmar.com
 air.pm-200.info
 akb123.ru
-akkoinfo.ru
 alco-812.ru
 alco-club.com
 alco-like.com
@@ -942,7 +942,9 @@ dom2-tv.net
 domdibenko.ru
 don-bar.ru
 doni22.com
+dostup36.ru
 dostup437.ru
+dostup926.ru
 dosug-box.com
 dosug-devushki.ru
 dosug-xx.ru
@@ -1944,7 +1946,6 @@ pravamne.org
 pravavekaterinberge.ru
 pravyysektor.od.ua
 prawaspec.com
-pret555.ml
 pris-nk.ru
 privezem-night.ru
 pro-stavki.ru
@@ -3078,6 +3079,7 @@ www.parimatchpm6.com
 www.parimatchstavka1.com
 www.parimatchstavka3.com
 www.parimatchwin7.com
+www.pirat.ca
 www.platinumsv.com
 www.playeuro.com.ua
 www.playvividcasino.com
@@ -3111,7 +3113,6 @@ www.rapidzona.com
 www.rchemarijuana.com
 www.rcparmachemsolutions.com
 www.rcshop24.com
-www.reaktivlive.com
 www.redline-casino.com
 www.resheba.ru
 www.rggukf.ru
@@ -3133,7 +3134,6 @@ www.rustrelok.biz
 www.rutor.org
 www.rutorginfo.tk
 www.ryazan-bolnichnyi-list.ru
-www.salon-ff.ru
 www.samara.stop-schetchik.ru
 www.sashqip.info
 www.sasymix.win
@@ -3222,7 +3222,6 @@ www.trudobook.info
 www.tstprp.com
 www.tut-mp3.ru
 www.tyhrfocvj.com
-www.udarsmes.com
 www.uhtube.net
 www.uikjmnt.com
 www.ultraprava.ru
