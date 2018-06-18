@@ -50,6 +50,7 @@
 1810.leon.bkr05l.club
 185-163-45-110.mivocloud.com
 185-163-45-115.mivocloud.com
+185-163-45-87.mivocloud.com
 185-163-45-98.mivocloud.com
 185-20-138-223.fi-hel1.host.upcloud.com
 185-225-17-82.mivocloud.com
@@ -2340,6 +2341,7 @@ shamarc.ms
 shamarc.ms.
 shamarc.org
 shokozayac.ru
+shop-tgk.ml
 shopdiplomas.com
 showbody.org
 shpatel.info
@@ -2652,6 +2654,7 @@ www.1ve.xyz
 www.1x-sport-bk2.com
 www.1x-sport-bk3.com
 www.1xbetx2.ru
+www.24dd.org
 www.24fg.biz
 www.2diplom.com
 www.4marobzor.info
