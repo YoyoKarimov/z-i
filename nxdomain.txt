@@ -677,7 +677,6 @@ bkspace.pris-nk.ru
 bkwh.ru
 bkzu.ru
 bla.world
-blogobol.ru
 blogpotapova.ru
 bloksigaret.com
 bo-tan.ru
@@ -1234,16 +1233,6 @@ i-front.ru
 i2s.info
 ice24.biz
 idealbuh.biz
-idreg1.widemrc.com
-idreg15.widemrc.com
-idreg22.widemrc.com
-idreg28.widemrc.com
-idreg32.widemrc.com
-idreg38.widemrc.com
-idreg4.widemrc.com
-idreg5.widemrc.com
-idreg7.widemrc.com
-idreg9.widemrc.com
 igdz.ru
 igravazart.com
 igroplanet.com
@@ -1788,7 +1777,6 @@ omsk-bolnichnyi-list.ru
 omskdiploma.ru
 onenew.ru
 onion.cool
-onionmarket.net
 onlajn-roulette.com
 online-divx.ru
 online-vulkan.nl
@@ -1861,7 +1849,6 @@ pro.intim38.ru
 pro.poker1.club
 pro100diplom.com
 proaviaexpert.ru
-probukmeker.top
 probukmeker1.ru
 probukmeker2.ru
 programs56.info
@@ -1999,7 +1986,6 @@ refpacoj.xyz
 refpacuk.xyz
 refpagov.xyz
 refpahek.xyz
-refpajuk.xyz
 refpamew.xyz
 refpanul.xyz
 refpapro.xyz
@@ -2371,7 +2357,6 @@ teehspec.com
 teenporndb.com
 telchemshop.com
 ten.you-are-winner.com
-test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 the.you-are-winner.com
@@ -2992,6 +2977,7 @@ www.rufonbet2.ru
 www.rufonbet3.ru
 www.rufonbet4.ru
 www.rufonbet5.ru
+www.rufonbet9.ru
 www.rufonbetsport1.ru
 www.rufonbetsport2.ru
 www.rufonbetsport3.ru
