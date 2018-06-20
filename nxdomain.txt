@@ -54,7 +54,6 @@
 185-163-45-87.mivocloud.com
 185-163-45-98.mivocloud.com
 185-20-138-223.fi-hel1.host.upcloud.com
-185-20-138-37.fi-hel1.host.upcloud.com
 188bet-bukmekerskaya.ru
 189-172-172-163.rev.cloud.scaleway.com
 1927453828312.wivk.ru
