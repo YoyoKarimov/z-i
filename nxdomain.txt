@@ -303,9 +303,11 @@ access-bb.pro
 access-bk.com
 access-playbalt.life
 access-playbalt.live
+access-playbalt.net
 access-playbalt.online
 access-playbalt.today
 access-playbalt.xyz
+accessplaybalt.info
 accessplaybalt.net
 account.fonbet61.vip
 account.fonbet62.vip
@@ -390,6 +392,7 @@ baltbet365.net
 baltbet365.today
 baltbet365.xyz
 baltbetgame.net
+baltbetgame.today
 baltbetwin.com
 baltbetwin.life
 baltbetwin.today
@@ -401,7 +404,9 @@ baltplay-access.life
 baltplay-access.net
 baltplay-access.today
 baltplay4.com
+baltsport.life
 baltsport.net
+baltsports.net
 barnaul-relax.ru
 bb3a80.olimp1897.top
 bcad6d.olimp58e8.top
@@ -475,7 +480,6 @@ betmir.zerq.ru
 betmira9.net
 bets.bkfonbetsports.com
 bets.faidecor.ru
-bets.fonsport.bet
 betsiti-bukmekerskaya.ru
 betsrusbk.ru
 betting.iivu.ru
@@ -1136,7 +1140,6 @@ live.bkfonsports.online
 live.fonbet13.com
 live.fonbet8.com
 live.fonbet9.com
-live.fonsport.bet
 livesfonbet.com
 ljefrds.terrybaja.com
 llendpagemobileleon.xyz
@@ -1153,6 +1156,7 @@ m.baltbet365.net
 m.baltbet365.today
 m.baltbet365.xyz
 m.baltbetgame.net
+m.baltbetgame.today
 m.baltgame.live
 m.baltgame.net
 m.baltsports.net
@@ -1364,13 +1368,18 @@ parimatch-pidar.ppaz.ru
 pda.baltbet365.life
 pda.baltbet365.live
 pda.baltbet365.net
+pda.baltbet365.today
 pda.baltbet365.xyz
+pda.baltbetgame.net
+pda.baltbetgame.today
 pda.baltbetwin.com
 pda.baltbetwin.life
 pda.baltbetwin.today
 pda.baltbetwin.xyz
+pda.baltgame.live
 pda.baltgame.net
 pda.baltgames.live
+pda.baltsports.net
 pda.baltsports.today
 pda.bb2017.xyz
 petamusic.ru
@@ -1381,6 +1390,7 @@ pirat.ca
 play-access.online
 play-casino.online
 play-na-dengi.com
+playbalt-access.net
 playbalt-access.pro
 playbaltaccess.net
 playgames-casino.com
@@ -1757,6 +1767,9 @@ taylor.id
 tct.teachearly.com
 teenporndb.com
 ten.you-are-winner.com
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 testnnnpointnew.xyz
 the.you-are-winner.com
 thebookmaker.ru
@@ -1780,6 +1793,7 @@ tut-mp3.com
 tut-mp3.ru
 tv-mir.net
 tvgid.biz
+tyumen.sanknizhki.ru
 ufaputana.com
 uhta.docvuz.org
 underprofi.com
@@ -1904,8 +1918,10 @@ www.art-item.ru
 www.azino777.ru
 www.babkino.com
 www.bahisyeri1.com
+www.baltbet365.life
 www.baltbet365.live
 www.baltbet365.net
+www.baltbet365.today
 www.baltbet365.xyz
 www.baltbetgame.net
 www.baltbetgame.today
@@ -1913,6 +1929,7 @@ www.baltgame.live
 www.baltgame.net
 www.baltplay4.com
 www.baltsport.net
+www.baltsports.net
 www.bestcasinoforum.com
 www.bestcasinopromo.net
 www.bestcasinopromo.xyz
@@ -2137,6 +2154,7 @@ www.new-fonbet.ru
 www.new-fonbet1.ru
 www.new-rutor.cf
 www.nizhnevartovsk.nuzhnyprava.biz
+www.nsk.sanknizhki.ru
 www.ocposh.info
 www.online-freebee.net
 www.onlinecasinoworld.ru
