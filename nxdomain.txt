@@ -349,6 +349,7 @@ baltbetwin.life
 baltgame.live
 baltgame.net
 baltplay-access.life
+baltplay-access.live
 baltplay-access.net
 baltplay-access.today
 baltplay4.com
@@ -920,7 +921,6 @@ ip-208-97-140-247.dreamhost.com
 izoprojectparta.ru
 jackpot-azart.com
 jackpot-klub4.com
-jackpot-klub7.com
 jbcam.xyz
 jett-cash.ru
 joycasino-777.ru
@@ -1412,7 +1412,6 @@ ru.leon106.info
 ru.leon107.info
 ru.leon108.info
 ru.leon262.com
-ru.leon264.com
 ru.leon265.com
 ru.leon267.com
 ru.leon268.com
@@ -1465,14 +1464,10 @@ ru.leondengi.com
 ru.leondos.com
 ru.leonfishka.com
 ru.leongambitbet.xyz
-ru.leongoo.com
 ru.leonhut.com
 ru.leonigra.com
 ru.leonkarta.com
-ru.leonkey.com
-ru.leonmegafon.com
 ru.leonmetel.com
-ru.leonmir.com
 ru.leonmol.com
 ru.leonmoneta.com
 ru.leonmsk.com
