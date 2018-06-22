@@ -1230,7 +1230,6 @@ pda.baltbetgame.today
 pda.baltgame.live
 pda.baltgame.net
 pda.baltsport.live
-pda.baltsports.net
 pda.bb2017.xyz
 peshkom-pomoskwe.ru
 petamusic.ru
