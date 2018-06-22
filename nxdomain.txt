@@ -257,8 +257,6 @@ air.pm-200.info
 akakxil.localad-vantage.com
 alexeyipanov.ru
 allhit.tv
-allods-hardcore.com
-allwedoissupply.com
 alt-history.ru
 anamvseravno.ru
 animal-toys.ru
@@ -584,7 +582,6 @@ d69a8a.olimp98b4.top
 d7c392.olimp9b55.gdn
 d8071b.olimpb4cc.top
 dabet.ru
-dailydime.eu
 dandy.netgameclub8.com
 darkwebs.biz
 de248b.olimp27fe.top
@@ -748,6 +745,7 @@ fonbetrus1.ru
 fonbetrus2.ru
 fonbetrus4.ru
 fonbetrus5.ru
+fonbetrus8.ru
 fonbets-20.su
 fonbets-21.su
 fonbets-22.su
@@ -765,6 +763,7 @@ fonbetsportpro1.ru
 fonbetsportpro3.ru
 fonbetsportpro4.ru
 fonbetsportpro5.ru
+fonbetsportpro7.ru
 foninfosport.info
 fonsportbet.org
 free-slotsklub.me
@@ -1352,7 +1351,6 @@ ru.leon105.info
 ru.leon106.info
 ru.leon107.info
 ru.leon108.info
-ru.leon265.com
 ru.leon281.com
 ru.leon283.com
 ru.leon285.com
@@ -1435,6 +1433,8 @@ rufonbet2.ru
 rufonbet3.ru
 rufonbet4.ru
 rufonbet5.ru
+rufonbet6.ru
+rufonbet9.ru
 rufonbetsport2.ru
 rufonbetsport3.ru
 rufonbetsport4.ru
@@ -1570,7 +1570,9 @@ vipfonbet2.ru
 vipfonbet3.ru
 vipfonbet4.ru
 vipfonbet5.ru
+vipfonbet6.ru
 vipfonbet7.ru
+vipfonbet8.ru
 vipgirlsnn.net
 vipnetgame.info
 vipnetgame.org
@@ -1773,6 +1775,8 @@ www.fonbetrus2.ru
 www.fonbetrus3.ru
 www.fonbetrus4.ru
 www.fonbetrus5.ru
+www.fonbetrus6.ru
+www.fonbetrus8.ru
 www.fonbets-20.su
 www.fonbetsportpro.ru
 www.fonbetsportpro1.ru
@@ -1891,6 +1895,8 @@ www.rufonbet2.ru
 www.rufonbet3.ru
 www.rufonbet4.ru
 www.rufonbet5.ru
+www.rufonbet6.ru
+www.rufonbet9.ru
 www.rufonbetsport1.ru
 www.rufonbetsport2.ru
 www.rufonbetsport3.ru
@@ -1940,12 +1946,14 @@ www.topasnew.ru
 www.topratedbookies.com
 www.tut-mp3.ru
 www.villabet.co
+www.vipfonbet10.ru
 www.vipfonbet2.ru
 www.vipfonbet3.ru
 www.vipfonbet4.ru
 www.vipfonbet5.ru
 www.vipfonbet6.ru
 www.vipfonbet7.ru
+www.vipfonbet8.ru
 www.vk-sound.ru
 www.voffline.net
 www.vsfilm.ru
@@ -1968,7 +1976,9 @@ www.zerkalo-fonbet2.ru
 www.zerkalo-fonbet3.ru
 www.zerkalo-fonbet4.ru
 www.zerkalo-fonbet5.ru
+www.zerkalo-fonbet6.ru
 www.zerkalo-fonbet7.ru
+www.zerkalo-fonbet8.ru
 www.zerkalomarafon.com
 www1.ccov.ru
 www1.fon-betting.ru
@@ -2048,6 +2058,8 @@ zerkalo-fonbet2.ru
 zerkalo-fonbet3.ru
 zerkalo-fonbet4.ru
 zerkalo-fonbet5.ru
+zerkalo-fonbet6.ru
+zerkalo-fonbet8.ru
 zerkalo-parimatch-bk.ru
 zerkalo-parimatch-new.ru
 zerkalo-rutor.su
