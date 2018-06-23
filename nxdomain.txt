@@ -356,9 +356,6 @@ bkfonbet12.online
 bkfonbet13.online
 bkfonbet14.online
 bkfonbet15.online
-bkfonbet4.online
-bkfonbet5.online
-bkfonbet6.online
 bkfonbet7.online
 bkfonbet8.online
 bkfonbet9.online
