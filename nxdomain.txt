@@ -848,6 +848,7 @@ m.baltbetgame.today
 m.baltgame.live
 m.baltgame.net
 m.baltsport.live
+m.baltsports.com
 m.baltsports.net
 m.fonbet-0d306.com
 m.fonbet101.vip
@@ -1027,7 +1028,6 @@ ololo-fm-search.ru
 onenew.ru
 opcash-card.site
 orutor.tk
-ox-ox.info
 parimatchbet1.cf
 parimatchbet1.gq
 pda.baltbet365.life
@@ -1584,7 +1584,6 @@ www.pravamne.org
 www.ps-obl.kiev.ua
 www.rapidzona.com
 www.resheba.ru
-www.rotabet23.com
 www.rufilm.tv
 www.rufilmtv.org
 www.rufonbet10.ru
