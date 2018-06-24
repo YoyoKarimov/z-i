@@ -372,6 +372,7 @@ bkinfo24.online
 bkinfo25.online
 bkinfo30.online
 bkinfo34.online
+bkinfo36.online
 bkinfo48.online
 bkinfo49.online
 bkinfo51.online
