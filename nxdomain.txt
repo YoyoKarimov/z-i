@@ -169,7 +169,6 @@
 91b60b.olimp98b4.top
 920ef7.olimp12da.top
 94-237-83-179.de-fra1.host.upcloud.com
-94-237-9-109.fi-hel2.host.upcloud.com
 94-237-9-76.fi-hel2.host.upcloud.com
 958e28.olimp876c.site
 9743f0.olimp876c.site
@@ -367,6 +366,7 @@ bkfonbet8.online
 bkfonbet9.online
 bkinfo-18.site
 bkinfo108.online
+bkinfo11.online
 bkinfo13.online
 bkinfo22.online
 bkinfo24.online
