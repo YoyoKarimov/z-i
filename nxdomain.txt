@@ -24,6 +24,7 @@
 185-163-45-87.mivocloud.com
 185-163-45-98.mivocloud.com
 185-20-138-223.fi-hel1.host.upcloud.com
+185-26-48-157.fi-hel1.host.upcloud.com
 189-172-172-163.rev.cloud.scaleway.com
 195ec1.olimp6753.top
 19d100.olimp1a50.top
@@ -1119,7 +1120,6 @@ taylor.id
 tct.teachearly.com
 teamhack.ru
 teenporndb.com
-test3.plusminus1.com
 testnnnpointnew.xyz
 time25.ru
 timegambling.ru
