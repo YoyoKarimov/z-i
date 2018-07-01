@@ -500,7 +500,6 @@ rutor1.info
 rutor2.eu
 rutor2.pl
 rutorg.ga
-rutorg.ml
 rutorginfo.tk
 rutors.ml
 rutracker-in.info
