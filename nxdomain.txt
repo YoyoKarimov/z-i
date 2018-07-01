@@ -69,6 +69,7 @@
 8torrent.net
 94-237-39-69.fi-hel1.host.upcloud.com
 94-237-45-91.nl-ams1.host.upcloud.com
+94-237-50-168.uk-lon1.host.upcloud.com
 94-237-83-179.de-fra1.host.upcloud.com
 94-237-9-109.fi-hel2.host.upcloud.com
 9435bf.olimp6b96.top
