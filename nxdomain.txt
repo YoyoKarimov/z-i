@@ -313,6 +313,7 @@ kinovips.me
 kirovo-chepetsk.org
 kittens.nonude-place.com
 klad24.online
+kosyak.ml
 krasnodar-spraki.net
 krasnodar.medknizhku-spravku.ru
 kubinvest.ru
@@ -345,7 +346,6 @@ m50.300kbit.pw
 m60.300kbit.pw
 magazin-1.cn
 mail.mixstorm.com
-main-rutor.tk
 marafon-zerkalo-1b16.bid
 marafon-zerkalo-2316.bid
 marafon-zerkalo-2d77.bid
@@ -395,7 +395,6 @@ nontorclub.ml
 nonude.blue
 nonude.pro
 nonude.space
-omsk-media.ru
 orutor.tk
 petamusic.ru
 photocodeathome.info
@@ -487,7 +486,6 @@ rightsector.dp.ua
 ru.hizb-turkiston.net
 ru.leon109.info
 ru.leon110.info
-ru.leonand.com
 ru.leonflix.com
 ru.leonios.com
 ru.leonunix.com
