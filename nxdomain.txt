@@ -130,19 +130,16 @@ bkinfo108.online
 bkinfo11.online
 bkinfo15.online
 bkinfo21.online
-bkinfo24.online
 bkinfo27.online
 bkinfo32.online
 bkinfo36.online
 bkinfo43.online
-bkinfo48.online
 bkinfo54.online
 bkinfo57.online
 bkinfo63.online
 bkinfo65.online
 bkinfo74.online
 bkinfo76.online
-bkinfo81.online
 bkinfo93.online
 bkinfo98.online
 bkr01.ru
@@ -308,7 +305,6 @@ kinoprofi2.net
 kinorom.com
 kinotv.me
 kinovips.me
-kirovo-chepetsk.org
 klad24.online
 kosyak.ml
 krasnodar-spraki.net
@@ -475,7 +471,6 @@ ru.leon110.info
 ru.leon111.info
 ru.leonflix.com
 ru.leonios.com
-ru.leonwindows.com
 ru.mp3-tut.biz
 ru.onlinepalacespins.com
 ru.turkiston.info
@@ -493,7 +488,6 @@ ru8.mp3-tut.biz
 ru9.mp3-tut.biz
 rufilmtv.org
 rus-pro.xyz
-rus.whitereconquista.com
 russ-torrents.xyz
 rutor-games.org
 rutor-in.info
@@ -570,7 +564,6 @@ uris.lol
 urislog.link
 valve.ml
 vashmed.com
-vd.ag
 victoriyasclub.ru
 vin.bkr03.ru
 vin.bkr04.ru
