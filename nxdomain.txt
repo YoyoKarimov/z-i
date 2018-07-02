@@ -532,6 +532,7 @@ shamarc.ms.
 shturmnews.info
 shturmnovosti.co
 sibirdosug.su
+sigarety-optom.info
 sitebesplatnyeprogrammy.ru
 slavaangel.com
 slavaangel.ru
@@ -551,6 +552,9 @@ streamhockey.ru
 superbotanik.ru
 swift.iibet.ru
 tchaykovsky.info
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tls.zello.com
 topasnew.ru
 torrents-rutor.eu
