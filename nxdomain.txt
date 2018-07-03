@@ -148,7 +148,6 @@ denurse.com
 derevho.in.ua
 diplom-prof.info
 diplomtut.com
-doctorfarm.net
 dok911.ru
 dom-filmov.ru
 dom2t.online
@@ -257,7 +256,6 @@ kinotv.me
 kinovips.me
 klad24.online
 kosyak.ml
-krasnodar-spraki.net
 krasnodar.medknizhku-spravku.ru
 kupitravu.ml
 kurskdiploma.ru
@@ -593,6 +591,7 @@ www.marketkubanalko.ru
 www.maxsimus.pw
 www.mixpromo.net
 www.mixstorm.com
+www.mod-pos.ru
 www.mp3-crazy.com
 www.mp3-crazy.net
 www.mp3.cc
