@@ -73,7 +73,6 @@
 902a96.olimp1960.top
 94-237-39-69.fi-hel1.host.upcloud.com
 94-237-45-91.nl-ams1.host.upcloud.com
-94-237-50-76.uk-lon1.host.upcloud.com
 94-237-9-109.fi-hel2.host.upcloud.com
 94-237-9-183.fi-hel2.host.upcloud.com
 9435bf.olimp6b96.top
@@ -104,9 +103,7 @@ bezlica.top
 bff718.olimp58e8.top
 bigcinema.online
 bioticrc.biz.legalrc.pro
-bkinfo15.online
 bkinfo21.online
-bkinfo27.online
 bkinfo32.online
 bkinfo43.online
 bkinfo54.online
@@ -252,7 +249,6 @@ kinonew.club
 kinoprofi.mobi
 kinoprofi2.net
 kinorom.com
-kinotv.me
 kinovips.me
 klad24.online
 kosyak.ml
