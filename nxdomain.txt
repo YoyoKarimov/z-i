@@ -441,7 +441,6 @@ vin.bkr03.ru
 vin.bkr04.ru
 vin.bkr05.ru
 vin.bkr06.ru
-vin.bkr07.ru
 vin.bkr08.ru
 vin.bkr09.ru
 vin.bkr10.ru
