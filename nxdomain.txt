@@ -1,5 +1,4 @@
 0106.vin.bkr02.ru
-0406.vin.bkr03.ru
 0412.vin.bkr06.ru
 0501.vin.bkr04.ru
 0601.vin.bkr08.ru
@@ -202,7 +201,6 @@ grandcrystal0.net
 hideipproxy.com
 hollywood-slots.com
 hydra-center.cf.
-hydra.wf
 igdz.ru
 ikino.su
 intim-girls.eu
@@ -512,7 +510,6 @@ www.gamecasinoonline.com
 www.gdz-free.com
 www.gdzpop.com
 www.gdzv.ru
-www.hydra.wf
 www.igdz.ru
 www.ikino.su
 www.karaokevideo.ru
