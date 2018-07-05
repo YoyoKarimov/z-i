@@ -192,7 +192,6 @@ fs2.flyingmail.eu
 ganja-perm.ml
 ganja420.tk
 ganjabest.ml
-ganjashop.ml
 ganjastore.ml
 ganjubas-nsk.ml
 gashish-ufa.ml
@@ -597,6 +596,7 @@ www.rcparmachemsolution.com
 www.resheba.ru
 www.rufilm.tv
 www.rufilmtv.org
+www.rus-rutor.info
 www.rutor.org
 www.saving-music.ru
 www.sbo8888.com
@@ -663,9 +663,7 @@ zerkalo-bk097.ru
 zerkalo-bk124.ru
 zerkalo-bk324.ru
 zerkalo-bk487.ru
-zerkalo-bk632.ru
 zerkalo-bk754.ru
-zerkalo-bk857.ru
 zerkalo-bk955.ru
 zerkalo-bk998.ru
 zerkalo-rutor.su
