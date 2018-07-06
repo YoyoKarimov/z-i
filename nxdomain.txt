@@ -287,7 +287,6 @@ my-gdz.ru
 my-hit.com
 my-secret-love.me
 naturalworld.ru
-neverfoldforum.com
 neverfoldzerkalo.com
 new-rutor.ga
 new-rutor.in
@@ -398,6 +397,7 @@ rutor-in.info
 rutor-org.gq
 rutor-org.info
 rutor-portal.ru
+rutor-ru.info
 rutor.org
 rutor1.info
 rutor2.eu
