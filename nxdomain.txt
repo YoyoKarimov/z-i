@@ -198,6 +198,8 @@ kino-hit.online
 kino-profi.org
 kino-rip.eu
 kino-serialu.ru
+kino-smotret.online
+kinoblog.online
 kinobomz.tv
 kinofestival.net
 kinogo-film.ru
@@ -234,8 +236,11 @@ legaltop.biz
 leon111.info
 leon112.info
 leonbet111.xyz
+leonbet112.xyz
 leonbetbet.xyz
 leonbetfan.xyz
+leonbetnug.xyz
+leonbetval.xyz
 lifefilm.info
 lithub.me
 lithub.ru
@@ -305,10 +310,7 @@ playamoonline.com
 pleer.com
 pleer.net
 pret555.ml
-promfile1.xyz
-promfile2.xyz
 promfile3.xyz
-promfile4.xyz
 promfile5.xyz
 prostitutki--chelyabinska.com
 prostitutki-p.com
@@ -529,8 +531,11 @@ www.kinogo-online.com
 www.kinokrad.ru
 www.leon111.info
 www.leonbet111.xyz
+www.leonbet112.xyz
 www.leonbetbet.xyz
 www.leonbetfan.xyz
+www.leonbetnug.xyz
+www.leonbetval.xyz
 www.lifefilm.info
 www.lithub.me
 www.lithub.ru
