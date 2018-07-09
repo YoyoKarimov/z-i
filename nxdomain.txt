@@ -76,6 +76,7 @@
 902a96.olimp1960.top
 94-237-39-69.fi-hel1.host.upcloud.com
 94-237-45-91.nl-ams1.host.upcloud.com
+94-237-9-112.fi-hel2.host.upcloud.com
 94-237-9-183.fi-hel2.host.upcloud.com
 9435bf.olimp6b96.top
 97efbd.olimpd9f7.top
@@ -452,6 +453,7 @@ regbuk0046.ru
 regbuk0054.ru
 regbuk0057.ru
 resheba.ru
+rohollahzam.tawanaproxy.club
 ru.btdb.to
 ru.filego.info
 ru.leon112.info
