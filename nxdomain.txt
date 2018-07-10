@@ -490,7 +490,6 @@ rutor2.eu
 rutor2.pl
 rutors.ml
 rutracker-in.info
-rutracker3.org
 rynok.space
 s.mogoyun.com
 saving-music.ru
@@ -518,8 +517,6 @@ superbotanik.ru
 t.boobsbay.xyz
 tauhid.info
 tchaykovsky.info
-test1.plusminus1.com
-test2.plusminus1.com
 test3.plusminus1.com
 tls.zello.com
 topasnew.ru
