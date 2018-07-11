@@ -78,6 +78,7 @@
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-34-78.fi-hel1.host.upcloud.com
 94-237-45-91.nl-ams1.host.upcloud.com
+94-237-50-76.uk-lon1.host.upcloud.com
 94-237-9-183.fi-hel2.host.upcloud.com
 9435bf.olimp6b96.top
 97efbd.olimpd9f7.top
@@ -220,7 +221,6 @@ igdz.ru
 iiibet.ru
 ikino.su
 intcasino.club
-intim-girls.eu
 karaokevideo.ru
 karaopa.ru
 kiber.me
@@ -718,6 +718,7 @@ www8.myzuka.me
 www9.myzuka.me
 wwy.mp3-tut.biz
 wwz.mp3-tut.biz
+x-bet.xyz
 x1x2.xyz
 xn----7sbvehqfibu7aj.xn--p1acf
 xn--80aodfnfhas4ai.xn--p1acf
