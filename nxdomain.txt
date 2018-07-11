@@ -23,13 +23,16 @@
 1xfqg.xyz
 1xiyy.xyz
 1xjbo.xyz
+1xjvy.xyz
 1xkgo.xyz
 1xknn.xyz
 1xmobbcy.xyz
 1xmobbyb.xyz
 1xmobcht.xyz
 1xmobdsj.xyz
+1xmobdwr.xyz
 1xmobfad.xyz
+1xmobfxd.xyz
 1xmobfxp.xyz
 1xmobgbd.xyz
 1xokm.xyz
@@ -386,6 +389,8 @@ nichesi.ru
 night-love.org
 nnm-club.name
 nnm-club2.ml
+nnm-to.ga
+nnm-to.gq
 nnm-torrent.ga
 nnm-torrent.gq
 nnmclub-new.gq
@@ -617,7 +622,6 @@ www.attestati.moscow
 www.avesena.ru
 www.babkino.com
 www.bet-zerkalo-dostup.ru
-www.betchan5.com
 www.bezuchetaru.ru
 www.bk1xbet-zerkalo.ru
 www.bo-tan.ru
