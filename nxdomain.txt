@@ -100,7 +100,6 @@
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-34-134.fi-hel1.host.upcloud.com
 94-237-45-91.nl-ams1.host.upcloud.com
-94-237-9-112.fi-hel2.host.upcloud.com
 94-237-9-183.fi-hel2.host.upcloud.com
 9400af.olimp1960.top
 9435bf.olimp6b96.top
@@ -129,6 +128,7 @@ b80ff6.olimp161f.top
 baskino-club.online
 baskino.space
 bertorrent.com
+best-muzon.org
 bet-city.org
 bet-zerkalo-dostup.ru
 betballer.com
