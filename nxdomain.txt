@@ -119,6 +119,7 @@
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-34-134.fi-hel1.host.upcloud.com
 94-237-45-91.nl-ams1.host.upcloud.com
+94-237-50-220.uk-lon1.host.upcloud.com
 94-237-50-76.uk-lon1.host.upcloud.com
 94-237-84-132.de-fra1.host.upcloud.com
 94-237-84-137.de-fra1.host.upcloud.com
