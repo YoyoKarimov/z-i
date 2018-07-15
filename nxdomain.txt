@@ -121,7 +121,6 @@
 94-237-44-152.nl-ams1.host.upcloud.com
 94-237-45-91.nl-ams1.host.upcloud.com
 94-237-50-220.uk-lon1.host.upcloud.com
-94-237-50-76.uk-lon1.host.upcloud.com
 94-237-84-132.de-fra1.host.upcloud.com
 94-237-84-137.de-fra1.host.upcloud.com
 94-237-9-183.fi-hel2.host.upcloud.com
@@ -542,6 +541,7 @@ resheba.ru
 rifarus.ru
 rivercat.ru
 rkn-zerkalo.ru
+rohollahzam.tawanaproxy.club
 royal-varik.ru
 ru.btdb.to
 ru.filego.info
@@ -855,6 +855,7 @@ www.sportingbullru817.com
 www.sportingbullru877.com
 www.sportingbullru914.com
 www.sportingbullru985.com
+www.sportsbetting.com
 www.spravka-help.org
 www.spravka-help.org.
 www.superbotanik.ru
