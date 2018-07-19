@@ -126,7 +126,6 @@
 93a69b.olimp12da.top
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-45-91.nl-ams1.host.upcloud.com
-94-237-84-137.de-fra1.host.upcloud.com
 94-237-9-183.fi-hel2.host.upcloud.com
 9435bf.olimp6b96.top
 97efbd.olimpd9f7.top
@@ -234,6 +233,7 @@ chem24.tk
 chetkiibro.net
 chita.putany.club
 cloud-ptr183.tavu.io
+clubrc.biz
 cocmosss.ru
 com-betting.website
 comedyportal.tv
@@ -877,6 +877,7 @@ www.kinogo-net-co.ru
 www.kinogo-online.com
 www.kinogo-smotret.net
 www.kinokrad.ru
+www.ksiva.pw
 www.lasvilis.com
 www.leonbet.me
 www.leonbet114.xyz
