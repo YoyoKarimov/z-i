@@ -126,6 +126,7 @@
 93a69b.olimp12da.top
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-45-91.nl-ams1.host.upcloud.com
+94-237-50-163.uk-lon1.host.upcloud.com
 94-237-9-183.fi-hel2.host.upcloud.com
 9435bf.olimp6b96.top
 97efbd.olimpd9f7.top
@@ -594,6 +595,7 @@ research.url.net.space.rucdn.pw
 resheba.ru
 rivercat.ru
 rkn-zerkalo.ru
+rohollahzam.tawanaproxy.club
 rostovmed.com
 rostovndfl.com
 royal-rc.com
