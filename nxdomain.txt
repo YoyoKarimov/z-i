@@ -533,6 +533,8 @@ medsar.org
 medsararov.org
 medvolga.net
 megamag24.biz.ua
+melbethdu.xyz
+melbetjkh.xyz
 melbetsyx.xyz
 michelson-co.website
 mila1.net
@@ -671,6 +673,7 @@ rutor-org.gq
 rutor-org.info
 rutor-portal.ru
 rutor-ru.info
+rutor.onion.lu
 rutor1.info
 rutor2.eu
 rutor2.pl
