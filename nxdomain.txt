@@ -331,7 +331,6 @@ fsax.website
 ganja-spb.ga
 ganja-spb.ml
 ganjatorg.ml
-garilaz.biz
 gde-kupit-spays-v-astrahani.fiton.biz
 gde-kupit-spays-v-kurske.fiton.biz
 gde-kuritelnye-smesi-v-permi.fiton.biz
@@ -534,6 +533,7 @@ medsar.org
 medsararov.org
 medvolga.net
 megamag24.biz.ua
+melbetsyx.xyz
 michelson-co.website
 mila1.net
 minuskaraoke.ru
@@ -717,7 +717,6 @@ spravkaekb.org
 spravki-saratov.com
 spravki24.com
 spravkimedmsk.ru
-spravkoyarsk.com
 sslll.ru
 sspeed-24.biz
 st.officeverse.com
