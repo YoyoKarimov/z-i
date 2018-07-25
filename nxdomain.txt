@@ -655,6 +655,7 @@ ru.leonbomb.com
 ru.leonhockey.com
 ru.leonkiss.com
 ru.leonmass.com
+ru.leonmonaco.com
 ru.leonrum.com
 ru.leontank.com
 ru.leonvvipuser9.com
@@ -738,7 +739,6 @@ tatardoc.com
 tchaykovsky.info
 tehosmotr.today
 teonanakatl.org
-test3.plusminus1.com
 tide420.biz
 tls.zello.com
 top-casinoonline.info
