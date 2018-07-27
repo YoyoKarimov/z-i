@@ -531,7 +531,6 @@ kosyak-moskva.cf
 kosyak-peterburg.cf
 kosyak-piter.ml
 kupi-boshki-msk.cf
-kupit-diplom-vuza.com
 kupit-skorost.tk
 l1uxury039.com
 lauradpremi.pro
@@ -1185,3 +1184,4 @@ zerkalosport565.ru
 zerkalosport654.ru
 zerx.tv
 zerxfilm.ru
+zhara.cc
