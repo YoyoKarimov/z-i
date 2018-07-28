@@ -155,6 +155,7 @@
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-39-73.fi-hel1.host.upcloud.com
 94-237-9-114.fi-hel2.host.upcloud.com
+94-237-9-142.fi-hel2.host.upcloud.com
 9406818.ru
 9435bf.olimp6b96.top
 9594a16b970b5c2424.c2ef25.e3b227af32e4d25d50.xyz
@@ -338,6 +339,7 @@ dc8ad8.olimpfc65.top
 de6f6d77793cad5bd5.c2ef25.db534bb0cc17aa05bc.xyz
 derevho.in.ua
 dfmailtr.ru
+diplomov5.biz
 dips-attestat.com
 doctorgam.com
 doctormedic.org
@@ -652,9 +654,9 @@ nontorclub.ga
 nontorclub.gq
 nontorclub.ml
 occupacii-karelii-net.info
+odni5.biz
 ok-docs.com
 ololo-fm-search.ru
-omsk.sanknizhki.ru
 online-kinogo.com
 online.babkino.pro
 oooio.ru
@@ -771,7 +773,6 @@ rutor.onion.lu
 rutor.onion.plus
 rutor2.eu
 rutor2.pl
-rutorka.pro
 rutors.ml
 rutracker-in.info
 rynok.space
@@ -839,7 +840,6 @@ tv.smotr.online
 tvkino.online
 tvmatch.online
 tytsex.com
-tyumen.sanknizhki.ru
 upd-42vcx8bct.dd9c8d009cde58905f2d.xyz
 upd-fbutgvuhf8.a660d996de04720d07d8.xyz
 upd-gvt5pxbbbivau6t.a660d996de04720d07d8.xyz
@@ -999,6 +999,8 @@ www.kinogo-smotret.net
 www.kinokrad.ru
 www.korenakim.com
 www.kupit-skorost.tk
+www.libros.am
+www.libros.am.
 www.lifefilm.info
 www.lithub.ru
 www.magnetfox.com
