@@ -295,6 +295,7 @@ bosheshki.ml
 boshki-moskva.cf
 boshki-peterburg.cf
 boshki-piter.ml
+bro54.biz
 brodvij.pro
 bs.besttracker.xyz
 bukanova-alla.com
@@ -645,7 +646,6 @@ nmezgkbetzerkalo.ru
 nnm-club.name
 nnm-club2.ml
 nnm-to.ga
-nnm-to.gq
 nnm-torrent.ga
 nnm-torrent.gq
 nnmclub-new.gq
