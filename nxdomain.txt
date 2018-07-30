@@ -189,7 +189,6 @@ afganskiy-gashish.ml
 agrosmart.com.ua
 alcotime.online
 alko-kirov.ru
-alkomagnit.pro
 alkomir.com
 alkonadom72.com
 anamvseravno.ru
@@ -591,7 +590,6 @@ maroccanec.ml
 medchel.com
 medicvolga.com
 medprof-apteka.ru
-medsar.org
 medsararov.org
 medvolga.net
 melbetccq.xyz
