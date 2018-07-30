@@ -75,6 +75,7 @@
 25c95e.olimp656f.top
 2746cd.olimp3043.top
 282add.olimp1a50.top
+29be7b.olimp58e8.top
 2b0449b930e22d41f3.c2ef25.db534bb0cc17aa05bc.xyz
 2d5c3c.olimp27fe.top
 2dd30d.olimp27fe.top
@@ -165,7 +166,6 @@
 94-237-35-45.fi-hel1.host.upcloud.com
 94-237-39-73.fi-hel1.host.upcloud.com
 94-237-46-77.nl-ams1.host.upcloud.com
-94-237-49-188.uk-lon1.host.upcloud.com
 9406818.ru
 9435bf.olimp6b96.top
 9594a16b970b5c2424.c2ef25.e3b227af32e4d25d50.xyz
