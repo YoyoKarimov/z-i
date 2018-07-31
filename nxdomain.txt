@@ -176,7 +176,6 @@
 94-237-35-44.fi-hel1.host.upcloud.com
 94-237-35-45.fi-hel1.host.upcloud.com
 94-237-39-73.fi-hel1.host.upcloud.com
-94-237-46-77.nl-ams1.host.upcloud.com
 94-237-46-83.nl-ams1.host.upcloud.com
 94-237-51-28.uk-lon1.host.upcloud.com
 9406818.ru
@@ -292,6 +291,7 @@ bkr07.ru
 bkr08.ru
 bkr09.ru
 bkr10.ru
+bkvhodzerkalo.ru
 bkzerkalo-2019.ru
 bkzerkalo-marafon11.ru
 bkzerkalo-marafon831.ru
@@ -484,6 +484,7 @@ gidroponica.ml
 gk24.biz
 goldazartslots.com
 goldenshara5-net.freeproxy.fun
+goldfishkazerkalo.com
 google.comuk.top
 googlebet.ru
 gorno-altaysk.okwus.com
@@ -581,7 +582,6 @@ lavy.tk
 lejdh.website
 leo.bkrlb2.pw
 leo.bkrlb4.pw
-leonaccess.org
 leonbetkon.xyz
 leonbetona.xyz
 leonbets4a.ru
@@ -627,15 +627,16 @@ m30.300kbit.pw
 m40.300kbit.pw
 m50.300kbit.pw
 m60.300kbit.pw
-m88club.org
 machine-xj.ru
 magnit-stop.com
 mandwe.pro
 marafon-zerkalo-bk.ru
+marfbet.ru
 marihuana-moskva.cf
 marihuana-piter.ml
 marijuana-msk.ml
 maroccanec.ml
+masterdoks.com
 medchel.com
 medicvolga.com
 medprof-apteka.ru
@@ -658,6 +659,7 @@ miraxanet.com
 mjcabinet.org
 mkcontocontigo.com.br
 mobator.ru
+mostcashbet.com
 mostmoneybet.com
 mostswipebet.com
 mp3.open.az
@@ -1064,6 +1066,7 @@ www.freetorrmd.ru
 www.ganja-moskva.cf
 www.gdzpop.com
 www.gdzv.ru
+www.gfdrhj655.com
 www.goodkino.biz
 www.icecristall.pro
 www.igdz.ru
@@ -1153,7 +1156,6 @@ www.xn--c1acj.xn--80aswg
 www.xn--d1ahfbogbaasi6c.xn--p1ai
 www.yabeda.org
 www.yurga.okwus.com
-www.zagotivkidoma.ru
 www.zaycev-tut.ru
 www.zenitai.win
 www.zenitasd.win
@@ -1271,7 +1273,6 @@ zerkalo648.ru
 zerkalo672.ru
 zerkalo673.ru
 zerkalo694.ru
-zerkalo727.ru
 zerkalo739.ru
 zerkalo743.ru
 zerkalo744.ru
@@ -1279,6 +1280,7 @@ zerkalo842.ru
 zerkalo862.ru
 zerkalo964.ru
 zerkalobetforbearance.ru
+zerkalobetinsouciance.ru
 zerkalobk4x.ru
 zerkalobk9x.ru
 zerkalobkpro.ru
