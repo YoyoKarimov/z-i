@@ -156,7 +156,6 @@
 822a33.olimp27fe.top
 823af3.olimpcc44.top
 82a644f28b1eceef63.c2ef25.e3b227af32e4d25d50.xyz
-83-136-249-227.uk-lon1.host.upcloud.com
 837c1c.olimp786f.top
 83d51b.olimp9b55.gdn
 842bb0.olimp27fe.top
@@ -565,6 +564,7 @@ m.zenitert.win
 m.zenitez.win
 m.zenitme.win
 m.zenitom.win
+m.zenitop.win
 m.zenitqwe.win
 m.zenitrty.win
 m.zenitsdf.win
@@ -801,6 +801,7 @@ slavaangel.com
 slavaangel.ru
 slot-game777.net
 slotclubadmiral.win
+slotsobzor.info
 smesivsem.com
 sp1040.com
 sp1051.com
@@ -823,7 +824,6 @@ tchaykovsky.info
 thickcigar.website
 tls.zello.com
 topasnew.ru
-toprc.biz
 torrent-2.net
 torrent-baza.com
 trava-moskva.cf
@@ -1045,12 +1045,16 @@ www.zenitcvb.win
 www.zenitdfg.win
 www.zenitert.win
 www.zenitez.win
+www.zenitip.win
 www.zenitme.win
+www.zenitom.win
+www.zenitop.win
 www.zenitqwe.win
 www.zenitrty.win
 www.zenitsdf.win
 www.zenitus.win
 www.zenitwer.win
+www.zenitwo.win
 www.zenitxcv.win
 www.zenitzxc.win
 www.zerkalo694.ru
@@ -1095,12 +1099,16 @@ zenitbet1.com
 zenitcvb.win
 zenitdfg.win
 zenitert.win
+zenitez.win
 zenitme.win
+zenitom.win
+zenitop.win
 zenitqwe.win
 zenitrty.win
 zenitsdf.win
 zenitus.win
 zenitwer.win
+zenitwo.win
 zenitxcv.win
 zenitzxc.win
 zerkalo-assesbet.ru
