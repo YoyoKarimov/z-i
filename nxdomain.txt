@@ -323,7 +323,6 @@ bkr08.ru
 bkr09.ru
 bkr10.ru
 bkvhodzerkalo.ru
-bkzerkalo333.ru
 bkzerkalonout.ru
 bla.world
 black-d.biz.cheap
@@ -621,8 +620,6 @@ konoplya-vmoskve.cf
 korolev.okwus.com
 kostroma.okwus.com
 kosyak-moskva.cf
-kosyak-peterburg.cf
-kosyak-piter.ml
 krsk24.pw
 kupi-boshki-msk.cf
 kupit-sk.ml
@@ -643,6 +640,7 @@ leonbets4a.ru
 leonbets5a.ru
 leonbetsos.info
 lifefilm.info
+linux92.sfwebhostin.org
 lirg.pw
 lithub.ru
 live-rutor.pl
@@ -818,6 +816,7 @@ novoshahtinsk.okwus.com
 novyy-urengoy.okwus.com
 nurd.pw
 nwbeats.com
+nyx.bouwsoft.be
 obninsk.okwus.com
 ocau.pw
 ocer.pw
@@ -953,6 +952,7 @@ ru6.mp3-tut.biz
 ru7.mp3-tut.biz
 ru8.mp3-tut.biz
 ru9.mp3-tut.biz
+rus-media-org.info
 rus-pro.xyz
 rus-rutor.info
 ruspart.org
@@ -1028,9 +1028,6 @@ taganrog.okwus.com
 tchaykovsky.info
 teendoll.nudimland.net
 teenlinks.pw
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 thickcigar.website
 thor.bouwsoft.be
 tls.zello.com
@@ -1364,7 +1361,6 @@ zerkalo-bkparimatch316.website
 zerkalo-marafon.pw
 zerkalo-rutor.su
 zerkalo159.ru
-zerkalo268.ru
 zerkalo462.ru
 zerkalo536.ru
 zerkalo739.ru
