@@ -717,6 +717,7 @@ marijuana-msk.ml
 maroccanec.ml
 masterdoks.com
 md-shop.pw
+media-rs.info
 megabrow.pw
 melbet1.pw
 melbet10.pw
@@ -737,9 +738,7 @@ melbetd.pw
 melbetegs.xyz
 melbetgdr.xyz
 melbetgza.xyz
-melbethdu.xyz
 melbetiee.xyz
-melbetjkh.xyz
 melbetool.xyz
 melbetsnj.xyz
 melbetyvy.xyz
@@ -1362,7 +1361,6 @@ zerkalo-rutor.su
 zerkalo159.ru
 zerkalo462.ru
 zerkalo536.ru
-zerkalo739.ru
 zerkalobetforbearance.ru
 zerkalobetinsouciance.ru
 zerkalobkeverlast.ru
