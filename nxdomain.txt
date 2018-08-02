@@ -318,7 +318,6 @@ bkr08.ru
 bkr09.ru
 bkr10.ru
 bkvhodzerkalo.ru
-bkzerkalonout.ru
 bla.world
 blacksell.net
 blagoveschensk.okwus.com
@@ -936,7 +935,10 @@ rus-rutor.info
 ruspart.org
 russ-torrents.xyz
 russparty.org
+rutor-24.info
+rutor-biz.info
 rutor-in.info
+rutor-msk.info
 rutor-net.info
 rutor-nn.info
 rutor-org.gq
