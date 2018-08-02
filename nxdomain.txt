@@ -196,7 +196,6 @@
 902a96.olimp1960.top
 93a69b.olimp12da.top
 94-237-27-145.de-fra1.host.upcloud.com
-94-237-32-216.fi-hel1.host.upcloud.com
 94-237-35-44.fi-hel1.host.upcloud.com
 94-237-35-45.fi-hel1.host.upcloud.com
 9435bf.olimp6b96.top
@@ -1019,6 +1018,9 @@ taganrog.okwus.com
 tchaykovsky.info
 teendoll.nudimland.net
 teenlinks.pw
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 thickcigar.website
 thor.bouwsoft.be
 tls.zello.com
@@ -1148,7 +1150,6 @@ www.bukvaved.org
 www.cherepovec.okwus.com
 www.chernyahovsk.okwus.com
 www.chita.okwus.com
-www.cityclubcasino.com
 www.citytowercasino.com
 www.crowneurope.com
 www.daykino.com
