@@ -196,6 +196,7 @@
 902a96.olimp1960.top
 93a69b.olimp12da.top
 94-237-27-145.de-fra1.host.upcloud.com
+94-237-39-73.fi-hel1.host.upcloud.com
 9435bf.olimp6b96.top
 9594a16b970b5c2424.c2ef25.e3b227af32e4d25d50.xyz
 966936.olimp161f.top
@@ -205,6 +206,7 @@
 9aec8de8f019d721d5.c2ef25.db534bb0cc17aa05bc.xyz
 9efbcb.olimp4859.top
 9f459a.olimp6301.site
+a097d4.olimp4859.top
 a3ddd8.olimp58e8.top
 a3e5f0.olimpfc65.top
 a4904c.olimp6301.site
@@ -358,7 +360,6 @@ cheetah.aussiewebhost.com.au
 chelyabinsk.okwus.com
 cherkessk.okwus.com
 chernyahovsk.okwus.com
-chiki.su
 chinamksmy54x46x.onion.plus
 cloud-ptr183.tavu.io
 club-vulkan-777.xyz
@@ -468,11 +469,9 @@ fonbet70.com
 fonbet72.com
 fonbet74.com
 fonbet75.com
-fonbetgool.ru
 fonbetlive24.ru
 fonbetrus.ru
 fonbetsportrus.ru
-fonbetviptip.ru
 fonbkbetting.ru
 frank-gamesclub.com
 frank-vipclub.com
@@ -519,7 +518,6 @@ gomarafon6.pw
 gomarafon7.pw
 gomarafon8.pw
 google.comuk.top
-googlebet.ru
 gorno-altaysk.okwus.com
 grinvich.biz
 groznyy.okwus.com
@@ -712,6 +710,7 @@ masterdoks.com
 md-shop.pw
 media-rs.info
 media-rus.info
+media-tracker.info
 megabrow.pw
 melbet1.pw
 melbet10.pw
@@ -914,7 +913,6 @@ ru.leonosmp.com
 ru.leonpivo.com
 ru.leonqiwi.com
 ru.leonroyal.com
-ru.leonrum.com
 ru.leonudo.com
 ru.mp3-tut.biz
 ru.reelemperor.pw
@@ -940,6 +938,7 @@ russ-torrents.xyz
 russparty.org
 rutor-in.info
 rutor-net.info
+rutor-nn.info
 rutor-org.gq
 rutor-org.info
 rutor-portal.ru
