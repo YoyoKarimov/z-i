@@ -938,7 +938,6 @@ rutor2.pl
 rutors.ml
 rutracker-in.info
 rybinsk.okwus.com
-rynok.space
 s.mogoyun.com
 saransk.okwus.com
 saving-music.ru
