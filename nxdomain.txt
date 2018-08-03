@@ -185,6 +185,7 @@
 902a96.olimp1960.top
 93a69b.olimp12da.top
 94-237-27-145.de-fra1.host.upcloud.com
+94-237-32-216.fi-hel1.host.upcloud.com
 9435bf.olimp6b96.top
 9594a16b970b5c2424.c2ef25.e3b227af32e4d25d50.xyz
 966936.olimp161f.top
@@ -509,7 +510,6 @@ grinvich.biz
 groznyy.okwus.com
 habklad.pw
 hanty-mansiysk.okwus.com
-hash-moskva.cf
 hd-kinogo.ru
 hdrezka.space
 hojo.pw
@@ -956,7 +956,6 @@ sffs992.com
 shamarc.ms.
 shamilonline.org
 shihki-shop.ml
-shmal-moskva.cf
 sitefonbetbk.ru
 sitiklad.pw
 skbar.pw
