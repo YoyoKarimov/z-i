@@ -560,7 +560,6 @@ komsomol-sk-na-amure.okwus.com
 korolev.okwus.com
 kostroma.okwus.com
 krsk24.pw
-kupi-boshki-msk.cf
 kupit-sk.ml
 kurgan.okwus.com
 kursk.okwus.com
@@ -947,6 +946,9 @@ taganrog.okwus.com
 tchaykovsky.info
 teendoll.nudimland.net
 teenlinks.pw
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 thor.bouwsoft.be
 tls.zello.com
 tobol-sk.okwus.com
