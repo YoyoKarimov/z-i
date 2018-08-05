@@ -225,7 +225,6 @@
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-35-44.fi-hel1.host.upcloud.com
 94-237-35-45.fi-hel1.host.upcloud.com
-94-237-45-150.nl-ams1.host.upcloud.com
 94-237-51-28.uk-lon1.host.upcloud.com
 9435bf.olimp6b96.top
 9594a16b970b5c2424.c2ef25.e3b227af32e4d25d50.xyz
