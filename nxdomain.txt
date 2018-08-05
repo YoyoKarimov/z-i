@@ -31,6 +31,7 @@
 15bb2b.olimp3043.top
 163-172-105-68.rev.poneytelecom.eu
 163-172-34-102.rev.poneytelecom.eu
+163-172-51-137.rev.poneytelecom.eu
 163-172-51-187.rev.poneytelecom.eu
 163-172-51-75.rev.poneytelecom.eu
 165182.olimp656f.top
@@ -379,7 +380,6 @@ bryansk.okwus.com
 bukanova-alla.com
 bukmekerstyle2.ru
 bukvaved.net
-bukvaved.org
 bxbetbet.com
 c.officeverse.com
 c642b1.olimp9b55.gdn
@@ -1098,8 +1098,6 @@ taganrog.okwus.com
 tchaykovsky.info
 teendoll.nudimland.net
 teenlinks.pw
-test1.plusminus1.com
-test3.plusminus1.com
 thor.bouwsoft.be
 tls.zello.com
 tobol-sk.okwus.com
@@ -1225,7 +1223,6 @@ www.bo-tan.ru
 www.bookgdz.ru
 www.borovichi.okwus.com
 www.bukvaved.net
-www.bukvaved.org
 www.cherepovec.okwus.com
 www.chernyahovsk.okwus.com
 www.chita.okwus.com
