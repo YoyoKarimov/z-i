@@ -633,6 +633,7 @@ klaw.pw
 klee.pw
 knij.pw
 kolomna.okwus.com
+kommersant.me
 komsomol-sk-na-amure.okwus.com
 korolev.okwus.com
 kostroma.okwus.com
@@ -1112,6 +1113,7 @@ topbk.net
 torrent-2.net
 torrent-baza.com
 torrentshare.org
+trutor.eu
 trutor.pl
 tushkan-net.club
 tut-mp3.ru
