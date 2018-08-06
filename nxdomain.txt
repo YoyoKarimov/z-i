@@ -230,7 +230,6 @@
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-35-44.fi-hel1.host.upcloud.com
 94-237-35-45.fi-hel1.host.upcloud.com
-94-237-9-200.fi-hel2.host.upcloud.com
 9435bf.olimp6b96.top
 9594a16b970b5c2424.c2ef25.e3b227af32e4d25d50.xyz
 966936.olimp161f.top
@@ -292,6 +291,7 @@ avsabc.xyz
 avtomatix.site
 awvu.pw
 azarthall.com
+azartsplay.com
 b1fecf.olimp876c.site
 b45f71.olimp9cf3.top
 b535b5.olimpa88c.site
@@ -848,6 +848,7 @@ onud.pw
 opca.pw
 orel.okwus.com
 organic-shop-msk.ml
+origina-l-diploms.com
 orutor.tk
 ox-ox.info
 pablosss-24.biz
@@ -1108,6 +1109,9 @@ taganrog.okwus.com
 tchaykovsky.info
 teendoll.nudimland.net
 teenlinks.pw
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 thor.bouwsoft.be
 tls.zello.com
 tobol-sk.okwus.com
@@ -1220,6 +1224,7 @@ www.arzamas.okwus.com
 www.astrahan.okwus.com
 www.audiopoisk.me
 www.azartforum.pw
+www.azartsplay.com
 www.babkino.com
 www.balakovo.okwus.com
 www.baltplay8.com
@@ -1312,6 +1317,7 @@ www.new-rutor.in
 www.nichesi.ru
 www.okvus.com
 www.online-freebee.net
+www.origina-l-diploms.com
 www.piratbit.ru
 www.pleer.com
 www.pleer.net
