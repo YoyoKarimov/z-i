@@ -972,6 +972,7 @@ shamarc5-biz.ml
 shamilonline.org
 sitiklad.pw
 skbar.pw
+skfor.me
 slavaangel.com
 slavaangel.ru
 slotsv.pw
@@ -1003,6 +1004,7 @@ topbk.net
 torrent-2.net
 torrent-baza.com
 torrentshare.org
+torrentzeu.to
 trutor.eu
 trutor.org.pl
 trutor.pl
