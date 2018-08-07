@@ -612,7 +612,6 @@ kinogo-hit.com
 kinogo-net-co.ru
 kinogo-onlain.me
 kinogo-onli.ru
-kinogo-online.club
 kinogo-online.tv
 kinogo-smotret.net
 kinogo.hol.es
@@ -691,13 +690,7 @@ m.fonbet-5baee.tk
 m.fonbet-90676.tk
 m.fonbet-d3659.tk
 m.mp3-tut.biz
-m.zenitai.win
-m.zenitez.win
-m.zenitme.win
-m.zenitom.win
 m.zenitop.win
-m.zenitus.win
-m.zenitwo.win
 m10.300kbit.pw
 m16.meritnation.net.in
 m178.mangosalads.com
@@ -1373,13 +1366,8 @@ www.yakuzarc.pw
 www.you-passport.com
 www.yurga.okwus.com
 www.zaycev-tut.ru
-www.zenitai.win
-www.zenitez.win
 www.zenitip.win
-www.zenitme.win
 www.zenitom.win
-www.zenitop.win
-www.zenitus.win
 www.zenitwo.win
 www.zerkalo162.xyz
 www.zerkalo163.xyz
@@ -1427,7 +1415,6 @@ zenitip.win
 zenitme.win
 zenitom.win
 zenitop.win
-zenitus.win
 zenitwer.win
 zenitwo.win
 zerkalo-abuse.ru
