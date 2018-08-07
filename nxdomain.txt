@@ -1025,6 +1025,7 @@ rutor-org.info
 rutor-portal.ru
 rutor-ru.info
 rutor-rus.info
+rutor.biz
 rutor.onion.lu
 rutor2.pl
 rutors.ml
