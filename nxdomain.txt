@@ -101,6 +101,7 @@
 212-129-0-193.rev.poneytelecom.eu
 212-129-18-44.rev.poneytelecom.eu
 212-129-19-40.rev.poneytelecom.eu
+212-129-20-177.rev.poneytelecom.eu
 2137ef.olimp98b4.top
 216802.olimp1958.top
 21baaa.olimp12da.top
@@ -326,7 +327,6 @@ bigcinema-online.info
 bigcinema-tv.info
 bigcinema.online
 bk-fonbet4.ru
-bk-fonbet5.ru
 bk-fonbet6.ru
 bk-fonbet7.ru
 bk-fonbet8.ru
@@ -935,12 +935,15 @@ ru.leoncontact.com
 ru.leondir.com
 ru.leonfight.com
 ru.leonfoot.com
+ru.leonforpartner.com
 ru.leonhand.com
+ru.leonhead.com
 ru.leonlaser.com
 ru.leonmigom.com
 ru.leonnuvip3.com
 ru.leonort.com
 ru.leonplus.com
+ru.leonraise.com
 ru.leonscreen.com
 ru.leonstart.com
 ru.leonvecher.com
@@ -1026,6 +1029,7 @@ t.boobsbay.xyz
 ta24.pw
 tchaykovsky.info
 teenlinks.pw
+the-cinema.ru
 thor.bouwsoft.be
 tinbk.site
 tls.zello.com
@@ -1232,6 +1236,7 @@ www.spishy-ru.ru
 www.spravka-help.org.
 www.superbotanik.ru
 www.teetuts.com
+www.the-cinema.ru
 www.topasnew.ru
 www.trudovaja.com
 www.trudwork.pw
