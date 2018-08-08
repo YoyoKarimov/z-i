@@ -38,6 +38,7 @@
 163-172-104-233.rev.poneytelecom.eu
 163-172-105-67.rev.poneytelecom.eu
 163-172-105-68.rev.poneytelecom.eu
+163-172-33-137.rev.poneytelecom.eu
 163-172-34-102.rev.poneytelecom.eu
 163-172-51-137.rev.poneytelecom.eu
 163-172-51-187.rev.poneytelecom.eu
@@ -344,7 +345,6 @@ bkleon4.ru
 bkleon5.ru
 bkmarathon.site
 bkmarathonbet.site
-bkprofitmine.ru
 bkprofitzerkalo.ru
 bkprozerkalo.ru
 bkr01.ru
@@ -358,7 +358,6 @@ bkr09.ru
 bkr10.ru
 bkxbet.site
 bkzerkalo-elizium.ru
-bkzerkalo-explosive.ru
 bkzerkaloprof.ru
 bla.world
 blacksell.net
@@ -435,7 +434,6 @@ dostup-marafon9.pw
 dostup-zerkalo.ru
 dosug-43.com
 dosug.io
-dvs-med.ru
 e24f43.olimpa88c.site
 e25eeb.olimpd9f7.top
 e4853c.olimp98b4.top
@@ -477,6 +475,7 @@ fonbet-41ece.tk
 fonbet-5baee.tk
 fonbet-d3659.tk
 fonbet-dd6f2.tk
+fonbet-zerolo.ru
 fonbet59.com
 fonbet69.com
 fonbet70.com
@@ -542,6 +541,7 @@ individualkiorenburga.date
 individualkivoronezha.men
 iodo.pw
 irkklad.pw
+ise4.com
 islamumma.net
 jahseeds-shop.com
 jjjbet.site
@@ -677,6 +677,7 @@ md-shop.pw
 media-rs.info
 media-rus.info
 media-tracker.info
+medical-krasnoyarsk.ru
 megabrow.pw
 melbet1.pw
 melbet10.pw
@@ -727,10 +728,15 @@ mobdnep.pw
 molot24.pw
 momy.pw
 moneyarea.pw
+mostdiv.com
 mostlandingbet.com
 mostmoneybet.com
+mostnug.com
+mostquj.com
 moststax.com
 mostswipebet.com
+mosttuk.com
+mostvok.com
 mp3.open.az
 mp3.uz.cx
 mp3pulse.su
@@ -771,6 +777,7 @@ offbet.site
 oldy.pw
 ololo-fm-search.ru
 onbet.site
+onerc24.com
 online-kinogo.com
 online.babkino.pro
 onlytopcasinos.ru
@@ -923,12 +930,19 @@ ru.leon356.com
 ru.leon357.com
 ru.leon359.com
 ru.leonbet.pw
+ru.leoncheck.com
 ru.leoncontact.com
 ru.leondir.com
+ru.leonfight.com
+ru.leonfoot.com
+ru.leonhand.com
 ru.leonlaser.com
+ru.leonmigom.com
 ru.leonnuvip3.com
 ru.leonort.com
+ru.leonplus.com
 ru.leonscreen.com
+ru.leonstart.com
 ru.leonvecher.com
 ru.leonxmen.com
 ru.mp3-tut.biz
@@ -1012,7 +1026,6 @@ t.boobsbay.xyz
 ta24.pw
 tchaykovsky.info
 teenlinks.pw
-test3.plusminus1.com
 thor.bouwsoft.be
 tinbk.site
 tls.zello.com
@@ -1023,9 +1036,11 @@ topbk.net
 torrent-2.net
 torrent-baza.com
 torrentshare.org
+trudovaja.com
 trutor.eu
 trutor.org.pl
 trutor.pl
+trydovayaknizhka.com
 tttbet.site
 tushkan-net.club
 tut-mp3.ru
@@ -1261,7 +1276,6 @@ xbetting.website
 xbetx.website
 xbetxbetbet12.com
 xmusic.me.uz.cx
-xn----7sbbajdi4c3acc4ago.xn--p1ai
 xn----7sbbgcbd7akerc2at3q.xn--p1ai
 xn--80abwhqgr.net
 xn--90ahankqr9d.xn--80asehdb
