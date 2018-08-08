@@ -97,6 +97,7 @@
 1zsport.com
 1zsport.pw
 20.300kbit.pw
+212-129-0-193.rev.poneytelecom.eu
 212-129-18-44.rev.poneytelecom.eu
 212-129-19-40.rev.poneytelecom.eu
 2137ef.olimp98b4.top
@@ -226,6 +227,7 @@
 94-237-35-44.fi-hel1.host.upcloud.com
 94-237-35-45.fi-hel1.host.upcloud.com
 94-237-39-73.fi-hel1.host.upcloud.com
+94-237-44-86.nl-ams1.host.upcloud.com
 9435bf.olimp6b96.top
 9594a16b970b5c2424.c2ef25.e3b227af32e4d25d50.xyz
 966936.olimp161f.top
@@ -736,7 +738,6 @@ new-rutor.tk
 new.ruletka.guru
 newsviaje10.com.br
 nichesi.ru
-nk-diploma.net
 nnm-club.name
 nnm-club2.ml
 nnm-torrent.ga
