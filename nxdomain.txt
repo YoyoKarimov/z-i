@@ -536,6 +536,7 @@ m.baltsport2017.xyz
 m.mp3-tut.biz
 m.samara-devochki.com
 m.samara-individualki.biz
+m.samara-individualki.com
 m10.300kbit.pw
 m16.meritnation.net.in
 m178.mangosalads.com
@@ -838,7 +839,6 @@ the-cinema.ru
 thor.bouwsoft.be
 tinbk.site
 tls.zello.com
-toonzwiclubf.top
 topasnew.ru
 topbk.net
 torrent-baza.com
@@ -1090,7 +1090,6 @@ zerkalo-obzor.ru
 zerkalo-reno.ru
 zerkalo-rutor.su
 zerkalo-stone.ru
-zerkalo-view.ru
 zerkalo24fonbet.website
 zerkalobkmarafon.website
 zerkalobksp1xbet.website
