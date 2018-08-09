@@ -218,7 +218,6 @@
 925e40.olimp3043.top
 93a69b.olimp12da.top
 94-237-27-145.de-fra1.host.upcloud.com
-94-237-34-134.fi-hel1.host.upcloud.com
 94-237-35-44.fi-hel1.host.upcloud.com
 94-237-35-45.fi-hel1.host.upcloud.com
 94-237-39-73.fi-hel1.host.upcloud.com
@@ -366,7 +365,6 @@ devki-orenburg.ru
 devki-sterlitamak.ru
 devki-ufa.ru
 df0431.olimpfc65.top
-diplms.com
 diplom-magistr.com
 doc-consult.com
 dok911.ru
