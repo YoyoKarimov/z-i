@@ -534,6 +534,8 @@ m.baltsport2017.site
 m.baltsport2017.today
 m.baltsport2017.xyz
 m.mp3-tut.biz
+m.samara-devochki.com
+m.samara-individualki.biz
 m10.300kbit.pw
 m16.meritnation.net.in
 m178.mangosalads.com
@@ -1073,7 +1075,6 @@ xxx51.org
 yabeda.org
 you-passport.com
 youtube-com.club
-zagranpasport-1.ru
 zarutor.tk
 zaycev-tut.ru
 zenitai.win
