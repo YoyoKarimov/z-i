@@ -193,7 +193,6 @@
 7b69f2.olimp1958.top
 80-69-174-133.fi-hel1.host.upcloud.com
 80-69-174-29.fi-hel1.host.upcloud.com
-80-69-174-89.fi-hel1.host.upcloud.com
 802560.olimp656f.top
 81bf09.olimp786f.top
 822a33.olimp27fe.top
@@ -607,6 +606,7 @@ mp3pulse.su
 mta13.mixskilled.com
 music-god.ru
 musica.uz.cx
+mutki.biz.vin
 muzzoff.com
 my-gdz.ru
 my-hit.com
@@ -833,6 +833,7 @@ slavaangel.ru
 sp1040.com
 sp1051.com
 space.rucdn.pw
+spartacasino.org
 speedliner2.biz
 spishy-ru.ru
 sporbk.site
