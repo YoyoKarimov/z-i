@@ -40,6 +40,7 @@
 163-172-104-233.rev.poneytelecom.eu
 163-172-105-67.rev.poneytelecom.eu
 163-172-105-68.rev.poneytelecom.eu
+163-172-106-86.rev.poneytelecom.eu
 163-172-33-137.rev.poneytelecom.eu
 163-172-34-102.rev.poneytelecom.eu
 163-172-51-137.rev.poneytelecom.eu
@@ -143,7 +144,6 @@
 4torrents.net
 50.300kbit.pw
 5090479.bstpoint.com
-5090612.bstpoint.com
 5091290.bstpoint.com
 5091719.bstpoint.com
 5092696.bstpoint.com
@@ -151,7 +151,6 @@
 5098528.bstpoint.com
 5099253.bstpoint.com
 5099651.bstpoint.com
-5106788.bstpoint.com
 513f2a.olimp876c.site
 51a98f.olimp786f.top
 5201da.olimp9cf3.top
@@ -336,6 +335,7 @@ casino-big.ru
 casino-good.ru
 casino-online-good.ru
 casino-redpinwin.ru
+casinodrift.co
 cazino-good.ru
 cazino-online-best.ru
 cazino-online-good.ru
@@ -407,7 +407,6 @@ filmask.ru
 filmku.ru
 films-one.ru
 flibusta.space
-fon-kabinet.ru
 fonbet-41ece.tk
 fonbet-5baee.tk
 fonbet-d3659.tk
@@ -454,7 +453,6 @@ igrat-slot-kazino.ru
 igrovoy-slot.ru
 iiibet.ru
 iilliii.ru
-imperiya-alko.ru
 individualkimoskvy.men
 individualkiorenburga.date
 individualkivoronezha.men
@@ -560,6 +558,7 @@ media-rus.info
 media-tracker.info
 medical-krasnoyarsk.ru
 melbet36.com
+melbet37.com
 melbet38.com
 melbet39.com
 melbet40.com
@@ -989,7 +988,6 @@ www.gdzv.ru
 www.go2slv.com
 www.goodkino.biz
 www.igdz.ru
-www.igrovoiklub-online.com
 www.ikino.su
 www.irksex.com
 www.karaokevideo.ru
