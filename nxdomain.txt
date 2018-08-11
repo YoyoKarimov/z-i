@@ -854,7 +854,6 @@ t.boobsbay.xyz
 tchaykovsky.info
 test1.plusminus1.com
 test2.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
@@ -1043,7 +1042,6 @@ www.rus-rutor.info
 www.saving-music.ru
 www.serialhit.tv
 www.service.rkngov.top
-www.sexkompas.ru
 www.shamilonline.org
 www.slavaangel.com
 www.slavaangel.ru
