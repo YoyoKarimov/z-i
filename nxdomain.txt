@@ -75,14 +75,20 @@
 1xbuq.xyz
 1xclub.info
 1xdport.com
+1xend.xyz
 1xet.com
 1xiib.xyz
 1xir22.com
+1xiwt.xyz
 1xjbm.xyz
 1xjog.xyz
+1xkpi.xyz
 1xkvo.xyz
 1xmobeut.xyz
+1xmobncq.xyz
+1xmobudf.xyz
 1xmobvzq.xyz
+1xmobzbt.xyz
 1xpers.com
 1xpip.xyz
 1xrge.xyz
@@ -97,6 +103,7 @@
 1xtitlerim.xyz
 1xvet.com
 1xwport.com
+1xxop.xyz
 1xypc.xyz
 1zsport.com
 20.300kbit.pw
@@ -879,7 +886,6 @@ tinbk.site
 tls.zello.com
 topasnew.ru
 topbk.net
-torrent-baza.com
 torrentshare.org
 trudovaja.com
 trutor.eu
