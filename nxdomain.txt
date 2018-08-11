@@ -93,6 +93,7 @@
 1zsport.com
 20.300kbit.pw
 212-129-0-193.rev.poneytelecom.eu
+212-129-16-85.rev.poneytelecom.eu
 212-129-18-44.rev.poneytelecom.eu
 212-129-19-121.rev.poneytelecom.eu
 212-129-19-223.rev.poneytelecom.eu
@@ -373,6 +374,7 @@ diplom01.com
 diploma-krasnodar.com
 diplomachita.ru
 doc-consult.com
+doghunter.to
 dok911.ru
 dom-filmov.ru
 dom-sbita24.com
@@ -822,7 +824,6 @@ serialhit.tv
 serials.cdn-x.ru
 seriea.sportboard.net
 service.rkngov.top
-sexekat.love
 sexkzn.men
 sexosochi.mobi
 sexrzn.love
