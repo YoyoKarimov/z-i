@@ -141,6 +141,7 @@
 212-129-19-223.rev.poneytelecom.eu
 212-129-19-40.rev.poneytelecom.eu
 212-129-20-177.rev.poneytelecom.eu
+212-129-24-110.rev.poneytelecom.eu
 2137ef.olimp98b4.top
 216802.olimp1958.top
 21baaa.olimp12da.top
@@ -1143,6 +1144,7 @@ www.you-passport.com
 www.zaycev-tut.ru
 www.zerkalo162.xyz
 www.zerkalo167.xyz
+www.zerkalo732.ru
 www1.myzuka.me
 www1.pesnitytvse.ru
 www2.myzuka.me
@@ -1188,6 +1190,7 @@ zerkalo-fonbet-bk.website
 zerkalo-pm2.ru
 zerkalo-rutor.su
 zerkalo24fonbet.website
+zerkalo732.ru
 zerkalobkmarafon.website
 zerkalobksp1xbet.website
 zerkaloclub.website
