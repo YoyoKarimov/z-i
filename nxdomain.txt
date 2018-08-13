@@ -283,7 +283,6 @@
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-35-44.fi-hel1.host.upcloud.com
 94-237-35-45.fi-hel1.host.upcloud.com
-94-237-37-210.fi-hel1.host.upcloud.com
 94-237-39-73.fi-hel1.host.upcloud.com
 94-237-51-137.uk-lon1.host.upcloud.com
 9435bf.olimp6b96.top
@@ -701,7 +700,6 @@ mp3.uz.cx
 mp3pulse.su
 mta13.mixskilled.com
 music-god.ru
-music.wottut.ru
 musica.uz.cx
 mutki.biz.vin
 muzzoff.com
@@ -864,7 +862,6 @@ ru.leonplus.com
 ru.leonraise.com
 ru.leonscreen.com
 ru.leonstart.com
-ru.leonvecher.com
 ru.mp3-tut.biz
 ru.turkiston.info
 ru1.mp3-tut.biz
@@ -1077,7 +1074,6 @@ www.baltsport2017.xyz
 www.bd602.com
 www.betprom.ru
 www.bk1x-520.com
-www.black-pearl.biz
 www.bo-tan.ru
 www.bookgdz.ru
 www.casino4games.ru
@@ -1168,7 +1164,6 @@ www.teetuts.com
 www.the-cinema.ru
 www.topasnew.ru
 www.trudovaja.com
-www.trutor.org.pl
 www.trutor.pl
 www.tut-mp3.ru
 www.vk-sound.ru
