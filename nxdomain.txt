@@ -325,7 +325,6 @@ baltgame2017.site
 baltgame2017.today
 baltsport2017.club
 baltsport2017.com
-baltsport2017.life
 baltsport2017.live
 baltsport2017.net
 baltsport2017.site
@@ -607,7 +606,6 @@ lxbet.mobi
 m.baltgame2017.club
 m.baltgame2017.com
 m.baltgame2017.life
-m.baltgame2017.net
 m.baltgame2017.site
 m.baltgame2017.today
 m.baltsport2017.club
@@ -714,11 +712,9 @@ pari-match.zerkalos.site
 pda.baltgame2017.club
 pda.baltgame2017.com
 pda.baltgame2017.life
-pda.baltgame2017.net
 pda.baltgame2017.site
 pda.baltgame2017.today
 pda.baltsport2017.club
-pda.baltsport2017.com
 pda.baltsport2017.life
 pda.baltsport2017.live
 pda.baltsport2017.net
@@ -966,12 +962,10 @@ www.babkino.com
 www.baltgame2017.club
 www.baltgame2017.com
 www.baltgame2017.life
-www.baltgame2017.net
 www.baltgame2017.site
 www.baltgame2017.today
 www.baltsport2017.club
 www.baltsport2017.com
-www.baltsport2017.life
 www.baltsport2017.live
 www.baltsport2017.net
 www.baltsport2017.site
@@ -1096,6 +1090,7 @@ www3.regbookmaker.ru
 www4.myzuka.me
 www4.regbookmaker.ru
 www5.myzuka.me
+www5.regbookmaker.ru
 www6.myzuka.me
 www6.regbookmaker.ru
 www7.myzuka.me
@@ -1103,6 +1098,7 @@ www7.regbookmaker.ru
 www8.myzuka.me
 www8.regbookmaker.ru
 www9.myzuka.me
+www9.regbookmaker.ru
 wwwbet.site
 wwy.mp3-tut.biz
 wwz.mp3-tut.biz
