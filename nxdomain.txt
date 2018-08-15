@@ -248,6 +248,7 @@
 83-136-248-179.uk-lon1.host.upcloud.com
 831c45741b2b0a85d3.c2ef25.0387bbb3a413b5c52e.xyz
 837c1c.olimp786f.top
+83a755.olimp58e7.top
 83d51b.olimp9b55.gdn
 842bb0.olimp27fe.top
 8488af8a8afb9168c3.c2ef25.4f42f3b6338a06de4c.xyz
@@ -354,8 +355,6 @@ bkleon3.ru
 bkleon4.ru
 bkleon5.ru
 bkmarafon.site
-bkmarathon.site
-bkmarathonbet.site
 bkr01.ru
 bkr02.ru
 bkr03.ru
@@ -365,7 +364,6 @@ bkr07.ru
 bkr08.ru
 bkr09.ru
 bkr10.ru
-bkxbet.site
 bkzenit.com
 bkzerkalo-bat.website
 bla.world
@@ -415,6 +413,7 @@ d3b2c2.olimpb4cc.top
 d4503e.olimpa88c.site
 d48a2d.olimpa88c.site
 d4c3ba.olimpcc44.top
+d55fdd.olimp27fe.top
 d59cb3.olimp786f.top
 d70264.olimp656f.top
 d9b8d0.olimpcc44.top
@@ -628,8 +627,6 @@ m30.300kbit.pw
 m40.300kbit.pw
 m50.300kbit.pw
 m60.300kbit.pw
-marafonbe-tzerkalo.site
-marafonbet-zerkalo.site
 master-docs.com
 media-rs.info
 media-rus.info
@@ -1014,6 +1011,7 @@ www.nsk.sanknizhki.ru
 www.online-freebee.net
 www.ostrov-slot.ru
 www.piratbit.ru
+www.play-fortyna.ru
 www.pleer.com
 www.pleer.net
 www.resheba.ru
@@ -1099,7 +1097,6 @@ xbahiz.com
 xbahs.com
 xbetbetx.com
 xbetru.com
-xbetting.website
 xbetx.website
 xbetxbetbet12.com
 xmusic.me.uz.cx
@@ -1140,7 +1137,6 @@ zerkalobkmatch.ru
 zerkalobkmelb.ru
 zerkalobkmobile.ru
 zerkalobkpari.ru
-zerkalobksp1xbet.website
 zerkalobktelefon.ru
 zerkaloclub.website
 zerkalos.site
@@ -1148,5 +1144,4 @@ zerkalositeclub.ru
 zerkalositecrew.ru
 zerkalositecue.ru
 zerkalositecurling.ru
-zerkalosszenit.website
 zerx.tv
